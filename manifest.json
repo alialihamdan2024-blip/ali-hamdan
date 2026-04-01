@@ -1,0 +1,17 @@
+
+{
+  "name": "Anatomy & Physiology",
+  "short_name": "Anatomy",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#ffffff",
+  "description": "The ultimate professional study tool for Human Anatomy & Physiology.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2966/2966334.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
