@@ -120,7 +120,19 @@ const processQuestions = () => {
 
             // Proxy Image URL
             if (cleanQ.questionImage) {
-                cleanQ.questionImage = `/api/proxy-image?url=${encodeURIComponent(cleanQ.questionImage)}`;
+                // Filter out images with specific copyright watermarks (NiZOOM & Miller)
+                // Since the text is on the image, we can't filter by text content easily.
+                // However, we can provide a mechanism to ban specific URLs if identified.
+                const bannedUrls = [
+                    // Add specific URLs here if they are identified as having the watermark
+                    'https://o.quizlet.com/p3U3hgyPuP-NV4n4VhJFYg.png', // Example of a potentially problematic image
+                ];
+
+                if (bannedUrls.includes(cleanQ.questionImage)) {
+                    cleanQ.questionImage = undefined;
+                } else {
+                    cleanQ.questionImage = `/api/proxy-image?url=${encodeURIComponent(cleanQ.questionImage)}`;
+                }
             }
 
             // DATA INTEGRITY CHECK: Ensure Answer is in Options
@@ -202,6 +214,21 @@ app.get('/api/proxy-image', async (req, res) => {
 
     if (!imageUrl) {
         return res.status(400).send('Missing url parameter');
+    }
+
+    // SECURITY: Prevent Server-Side Request Forgery (SSRF)
+    try {
+        const parsedUrl = new URL(imageUrl);
+        const allowedDomains = ['o.quizlet.com', 'quizlet.com', 'wsrv.nl']; // Allowed image sources
+        
+        if (!allowedDomains.includes(parsedUrl.hostname)) {
+            return res.status(403).send('Forbidden: Image domain not allowed');
+        }
+        if (parsedUrl.protocol !== 'https:') {
+            return res.status(403).send('Forbidden: Only HTTPS is allowed');
+        }
+    } catch (e) {
+        return res.status(400).send('Invalid URL format');
     }
 
     try {

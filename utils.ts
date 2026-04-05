@@ -1,4 +1,6 @@
 
+import DOMPurify from 'dompurify';
+
 /**
  * Utility to process image URLs.
  * 
@@ -34,4 +36,15 @@ export const cleanImageUrl = (url: string | undefined, width: number = 800): str
   // il: interlaced (progressive loading)
   // maxage: 1y (Cache for 1 year to prevent loss if source is deleted)
   return `https://wsrv.nl/?url=${encodedUrl}&w=${width}&q=80&output=webp&il&maxage=1y`;
+};
+
+/**
+ * Sanitizes HTML to prevent XSS attacks.
+ * 
+ * @param html - The raw HTML string
+ * @returns The sanitized HTML string
+ */
+export const sanitizeHtml = (html: string | undefined): string => {
+  if (!html) return '';
+  return DOMPurify.sanitize(html);
 };

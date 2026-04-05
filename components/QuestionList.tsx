@@ -217,7 +217,7 @@ const QuestionList: React.FC<QuestionListProps> = ({
             <div key={q.id} className={`bg-white rounded-3xl md:rounded-[2rem] border shadow-sm hover:shadow-xl hover:scale-[1.01] transition-all overflow-hidden flex flex-col relative group ${mistakes.includes(q.id) ? 'border-rose-200 ring-2 ring-rose-50' : 'border-slate-100'}`}>
               {q.questionImage && (
                 <div className="w-full h-48 bg-slate-50 border-b border-slate-100 flex items-center justify-center p-4 shrink-0 overflow-hidden" onClick={() => onImageClick?.(q.questionImage!)}>
-                   <img src={cleanImageUrl(q.questionImage)} alt="Diagram" className="max-w-full max-h-full object-contain rounded-lg cursor-zoom-in" loading="lazy" />
+                   <img src={cleanImageUrl(q.questionImage)} alt="Diagram" className="max-w-full max-h-full object-contain rounded-lg cursor-zoom-in" loading="lazy" referrerPolicy="no-referrer" />
                 </div>
               )}
               <div className="p-5 md:p-8 flex-1">

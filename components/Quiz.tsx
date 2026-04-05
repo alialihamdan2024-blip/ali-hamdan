@@ -10,7 +10,7 @@ import {
 } from 'lucide-react';
 import { useSpeech } from '../hooks/useSpeech';
 import FilterModal, { FilterOption } from './FilterModal';
-import { cleanImageUrl } from '../utils';
+import { cleanImageUrl, sanitizeHtml } from '../utils';
 
 // --- OPTIMIZED SUB-COMPONENTS ---
 
@@ -57,7 +57,7 @@ const QuizQuestionBody = React.memo(({
                                 )}
                             </div>
                             
-                            <h2 className="text-xl md:text-2xl lg:text-3xl font-bold text-slate-900 leading-tight font-display" dangerouslySetInnerHTML={{ __html: currentQ.data.questionText }} />
+                            <h2 className="text-xl md:text-2xl lg:text-3xl font-bold text-slate-900 leading-tight font-display" dangerouslySetInnerHTML={{ __html: sanitizeHtml(currentQ.data.questionText) }} />
                         </div>
 
                         {currentQ.data.questionImage && (
@@ -132,7 +132,7 @@ const QuizQuestionBody = React.memo(({
                                             <div className={`w-10 h-10 rounded-xl flex items-center justify-center shrink-0 transition-colors ${iconClass}`}>
                                                 {iconContent}
                                             </div>
-                                            <span className={`font-bold text-sm md:text-base leading-snug ${textColor}`} dangerouslySetInnerHTML={{ __html: opt }} />
+                                            <span className={`font-bold text-sm md:text-base leading-snug ${textColor}`} dangerouslySetInnerHTML={{ __html: sanitizeHtml(opt) }} />
                                         </button>
                                     );
                                 })}
@@ -826,7 +826,7 @@ const Quiz: React.FC<QuizProps> = ({
                                           </div>
                                       )}
 
-                                      <h4 className="text-base font-bold text-slate-900" dangerouslySetInnerHTML={{ __html: q.data.questionText }} />
+                                      <h4 className="text-base font-bold text-slate-900" dangerouslySetInnerHTML={{ __html: sanitizeHtml(q.data.questionText) }} />
                                       
                                       <div className="space-y-2">
                                           <div className={`p-3 rounded-lg text-xs font-bold flex items-center justify-between ${isCorrect ? 'bg-emerald-50 text-emerald-900' : 'bg-rose-50 text-rose-900'}`}>

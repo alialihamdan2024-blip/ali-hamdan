@@ -8,7 +8,7 @@ export const questions: Question[] = [
     questionText: 'In the lever diagram, which letter represents the Fulcrum?',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/XEikbNPwVKjKQL5bwJYvow.jpg',
+    questionImage: '/images/XEikbNPwVKjKQL5bwJYvow.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -16,7 +16,7 @@ export const questions: Question[] = [
     questionText: 'In the lever diagram, which letter represents the Effort?',
     answerText: 'A',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/XEikbNPwVKjKQL5bwJYvow.jpg',
+    questionImage: '/images/XEikbNPwVKjKQL5bwJYvow.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -24,7 +24,7 @@ export const questions: Question[] = [
     questionText: 'In the lever diagram, which letter represents the Load (Resistance)?',
     answerText: 'C',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/XEikbNPwVKjKQL5bwJYvow.jpg',
+    questionImage: '/images/XEikbNPwVKjKQL5bwJYvow.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -32,7 +32,7 @@ export const questions: Question[] = [
     questionText: 'Which diagram represents a First-Class Lever (like scissors or nodding the head)?',
     answerText: 'A',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/tTCA6edfWeaDgryCRYy4mg.jpg',
+    questionImage: '/images/tTCA6edfWeaDgryCRYy4mg.jpg',
     options: ['A', 'B', 'C']
   },
   {
@@ -40,7 +40,7 @@ export const questions: Question[] = [
     questionText: 'Which diagram represents a Second-Class Lever (like a wheelbarrow or standing on toes)?',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/tTCA6edfWeaDgryCRYy4mg.jpg',
+    questionImage: '/images/tTCA6edfWeaDgryCRYy4mg.jpg',
     options: ['A', 'B', 'C']
   },
   {
@@ -48,7 +48,7 @@ export const questions: Question[] = [
     questionText: 'Which diagram represents a Third-Class Lever (most common in body, like flexing elbow)?',
     answerText: 'C',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/tTCA6edfWeaDgryCRYy4mg.jpg',
+    questionImage: '/images/tTCA6edfWeaDgryCRYy4mg.jpg',
     options: ['A', 'B', 'C']
   },
 
@@ -58,7 +58,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Superior Rectus muscle.',
     answerText: 'C',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/UsTRG7K5oKP98zFaM9U4-Q.jpg',
+    questionImage: '/images/UsTRG7K5oKP98zFaM9U4-Q.jpg',
     options: ['C', 'B', 'D', 'E']
   },
   {
@@ -66,7 +66,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Lateral Rectus muscle.',
     answerText: 'E',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/UsTRG7K5oKP98zFaM9U4-Q.jpg',
+    questionImage: '/images/UsTRG7K5oKP98zFaM9U4-Q.jpg',
     options: ['E', 'D', 'F', 'G']
   },
   {
@@ -74,7 +74,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Inferior Oblique muscle.',
     answerText: 'G',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/UsTRG7K5oKP98zFaM9U4-Q.jpg',
+    questionImage: '/images/UsTRG7K5oKP98zFaM9U4-Q.jpg',
     options: ['G', 'F', 'E', 'D']
   },
   {
@@ -82,7 +82,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Superior Oblique muscle.',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/UsTRG7K5oKP98zFaM9U4-Q.jpg',
+    questionImage: '/images/UsTRG7K5oKP98zFaM9U4-Q.jpg',
     options: ['B', 'C', 'D', 'A']
   },
   {
@@ -90,7 +90,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Medial Rectus muscle.',
     answerText: 'D',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/UsTRG7K5oKP98zFaM9U4-Q.jpg',
+    questionImage: '/images/UsTRG7K5oKP98zFaM9U4-Q.jpg',
     options: ['D', 'E', 'F', 'C']
   },
   {
@@ -98,7 +98,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Inferior Rectus muscle.',
     answerText: 'F',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/UsTRG7K5oKP98zFaM9U4-Q.jpg',
+    questionImage: '/images/UsTRG7K5oKP98zFaM9U4-Q.jpg',
     options: ['F', 'G', 'E', 'D']
   },
 
@@ -108,7 +108,7 @@ export const questions: Question[] = [
     questionText: 'Which muscle labeled in the diagram acts to compress the cheeks, as in whistling or sucking?',
     answerText: 'I (Buccinator)',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/QUgnvXJLSgDn6uLQLeYt8w.jpg',
+    questionImage: '/images/QUgnvXJLSgDn6uLQLeYt8w.jpg',
     options: ['I (Buccinator)', 'B (Masseter)', 'C (Orbicularis Oris)', 'D (Orbicularis Oculi)']
   },
   {
@@ -116,7 +116,7 @@ export const questions: Question[] = [
     questionText: 'Which muscle labeled in the diagram is the primary muscle of chewing (mastication), responsible for elevating the mandible?',
     answerText: 'B (Masseter)',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/QUgnvXJLSgDn6uLQLeYt8w.jpg',
+    questionImage: '/images/QUgnvXJLSgDn6uLQLeYt8w.jpg',
     options: ['B (Masseter)', 'A (Frontalis)', 'E (Zygomaticus Major)', 'H (Risorius)']
   },
   {
@@ -124,7 +124,7 @@ export const questions: Question[] = [
     questionText: 'Which muscle labeled in the diagram closes the eye (blinking/squinting)?',
     answerText: 'D (Orbicularis Oculi)',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/QUgnvXJLSgDn6uLQLeYt8w.jpg',
+    questionImage: '/images/QUgnvXJLSgDn6uLQLeYt8w.jpg',
     options: ['D (Orbicularis Oculi)', 'C (Orbicularis Oris)', 'A (Frontalis)', 'B (Masseter)']
   },
   {
@@ -132,7 +132,7 @@ export const questions: Question[] = [
     questionText: 'Which muscle labeled in the diagram is the "smiling muscle" that draws the angle of the mouth superiorly and laterally?',
     answerText: 'E (Zygomaticus Major)',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/QUgnvXJLSgDn6uLQLeYt8w.jpg',
+    questionImage: '/images/QUgnvXJLSgDn6uLQLeYt8w.jpg',
     options: ['E (Zygomaticus Major)', 'L (Depressor Anguli Oris)', 'K (Depressor Labii Inferioris)', 'G (Risorius)']
   },
   {
@@ -140,7 +140,7 @@ export const questions: Question[] = [
     questionText: 'Which muscle labeled in the diagram flexes the vertebral column and compresses the abdomen (used in situps)?',
     answerText: 'B (Rectus Abdominis)',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/ahB.Dxu2U5w.OmKbzrtTmQ.jpg',
+    questionImage: '/images/ahB.Dxu2U5w.OmKbzrtTmQ.jpg',
     options: ['B (Rectus Abdominis)', 'C (External Oblique)', 'G (Pectoralis Major)', 'F (Deltoid)']
   },
   {
@@ -148,7 +148,7 @@ export const questions: Question[] = [
     questionText: 'Which muscle labeled in the diagram is the prime mover of arm abduction?',
     answerText: 'F (Deltoid)',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/ahB.Dxu2U5w.OmKbzrtTmQ.jpg',
+    questionImage: '/images/ahB.Dxu2U5w.OmKbzrtTmQ.jpg',
     options: ['F (Deltoid)', 'G (Pectoralis Major)', 'A (Latissimus Dorsi)', 'E (Trapezius)']
   },
   {
@@ -156,7 +156,7 @@ export const questions: Question[] = [
     questionText: 'Which muscle labeled in the diagram extends the leg at the knee joint and flexes the thigh at the hip joint?',
     answerText: 'C (Rectus Femoris)',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/ahB.Dxu2U5w.OmKbzrtTmQ.jpg',
+    questionImage: '/images/ahB.Dxu2U5w.OmKbzrtTmQ.jpg',
     options: ['C (Rectus Femoris)', 'D (Tibialis Anterior)', 'B (Rectus Abdominis)', 'G (Pectoralis Major)']
   },
   {
@@ -164,7 +164,7 @@ export const questions: Question[] = [
     questionText: 'Which muscle labeled in the diagram is the primary dorsiflexor of the foot (lifting the toes)?',
     answerText: 'D (Tibialis Anterior)',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/ahB.Dxu2U5w.OmKbzrtTmQ.jpg',
+    questionImage: '/images/ahB.Dxu2U5w.OmKbzrtTmQ.jpg',
     options: ['D (Tibialis Anterior)', 'C (Rectus Femoris)', 'A (Gastrocnemius)', 'B (Soleus)']
   },
   // REPLACED QUESTIONS (Fixed broken image 2l.pCXow... with v.V7riqe0Rf4Fej3D5a-KA.png for back view)
@@ -173,7 +173,7 @@ export const questions: Question[] = [
     questionText: 'Which muscle labeled "A" in the diagram extends the head and can also elevate, depress, or retract the scapula?',
     answerText: 'Trapezius',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/v.V7riqe0Rf4Fej3D5a-KA.png',
+    questionImage: '/images/v.V7riqe0Rf4Fej3D5a-KA.png',
     options: ['Trapezius', 'Latissimus Dorsi', 'Deltoid', 'Infraspinatus']
   },
   {
@@ -181,7 +181,7 @@ export const questions: Question[] = [
     questionText: 'Which muscle labeled "D" in the diagram is the "swimmer\'s muscle", responsible for extension, adduction, and medial rotation of the arm?',
     answerText: 'Latissimus Dorsi',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/v.V7riqe0Rf4Fej3D5a-KA.png',
+    questionImage: '/images/v.V7riqe0Rf4Fej3D5a-KA.png',
     options: ['Latissimus Dorsi', 'Trapezius', 'Infraspinatus', 'Rhomboid Major']
   },
   {
@@ -189,7 +189,7 @@ export const questions: Question[] = [
     questionText: 'Which muscle labeled "E" in the diagram is the prime mover for extension of the thigh at the hip joint (climbing stairs)?',
     answerText: 'Gluteus Maximus',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/P6.PP9VCuTsX7bKqCSmk-g.png',
+    questionImage: '/images/P6.PP9VCuTsX7bKqCSmk-g.png',
     options: ['Gluteus Maximus', 'Biceps Femoris', 'Gastrocnemius', 'Semimembranosus']
   },
   {
@@ -197,7 +197,7 @@ export const questions: Question[] = [
     questionText: 'Which muscle labeled in the diagram acts to plantar flex the foot (point toes downward)?',
     answerText: 'D (Gastrocnemius)',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/ahB.Dxu2U5w.OmKbzrtTmQ.jpg',
+    questionImage: '/images/ahB.Dxu2U5w.OmKbzrtTmQ.jpg',
     options: ['D (Gastrocnemius)', 'C (Tibialis Anterior)', 'B (Rectus Femoris)', 'A (Soleus)']
   },
 
@@ -209,7 +209,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Orbicularis Oculi.',
     answerText: 'D',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['D', 'E', 'F', 'G']
   },
   {
@@ -217,7 +217,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Zygomaticus Major.',
     answerText: 'E',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['E', 'D', 'F', 'H']
   },
   {
@@ -225,7 +225,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Orbicularis Oris.',
     answerText: 'K',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['K', 'L', 'M', 'N']
   },
   {
@@ -233,7 +233,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Frontalis muscle.',
     answerText: 'A',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -241,7 +241,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Temporalis muscle.',
     answerText: 'C',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['C', 'A', 'B', 'D']
   },
   {
@@ -249,7 +249,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Masseter muscle.',
     answerText: 'H',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['H', 'I', 'J', 'G']
   },
   {
@@ -257,7 +257,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Buccinator.',
     answerText: 'I',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['I', 'H', 'J', 'K']
   },
   {
@@ -265,7 +265,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Sternocleidomastoid.',
     answerText: 'P',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['P', 'O', 'N', 'M']
   },
   {
@@ -273,7 +273,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Risorius.',
     answerText: 'G',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['G', 'H', 'F', 'I']
   },
   {
@@ -281,7 +281,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Depressor Anguli Oris.',
     answerText: 'L',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['L', 'K', 'M', 'N']
   },
   {
@@ -289,7 +289,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Depressor Labii Inferioris.',
     answerText: 'M',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['M', 'L', 'N', 'O']
   },
   {
@@ -297,7 +297,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Mentalis.',
     answerText: 'N',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['N', 'M', 'K', 'L']
   },
 
@@ -307,7 +307,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Pectoralis Major.',
     answerText: 'A',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -315,7 +315,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Deltoid.',
     answerText: 'F',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['F', 'G', 'E', 'A']
   },
   {
@@ -323,7 +323,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Rectus Femoris.',
     answerText: 'C',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['C', 'D', 'B', 'A']
   },
   {
@@ -331,7 +331,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Sartorius.',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['B', 'C', 'D', 'A']
   },
   {
@@ -339,7 +339,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Tibialis Anterior.',
     answerText: 'H',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['H', 'G', 'I', 'D']
   },
   {
@@ -347,7 +347,7 @@ export const questions: Question[] = [
     questionText: 'Identify the External Oblique.',
     answerText: 'G',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['G', 'F', 'A', 'B']
   },
   {
@@ -355,7 +355,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Vastus Lateralis.',
     answerText: 'D',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['D', 'C', 'E', 'B']
   },
   {
@@ -363,7 +363,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Vastus Medialis.',
     answerText: 'E',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['E', 'C', 'D', 'B']
   },
   {
@@ -371,7 +371,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Gastrocnemius (Medial Head).',
     answerText: 'I',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['I', 'H', 'E', 'D']
   },
 
@@ -381,7 +381,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Trapezius.',
     answerText: 'A',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/v.V7riqe0Rf4Fej3D5a-KA.png',
+    questionImage: '/images/v.V7riqe0Rf4Fej3D5a-KA.png',
     options: ['A', 'B', 'D', 'G']
   },
   {
@@ -389,7 +389,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Latissimus Dorsi.',
     answerText: 'D',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/v.V7riqe0Rf4Fej3D5a-KA.png',
+    questionImage: '/images/v.V7riqe0Rf4Fej3D5a-KA.png',
     options: ['D', 'A', 'E', 'F']
   },
   {
@@ -397,7 +397,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Deltoid (Posterior fibers).',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/v.V7riqe0Rf4Fej3D5a-KA.png',
+    questionImage: '/images/v.V7riqe0Rf4Fej3D5a-KA.png',
     options: ['B', 'A', 'C', 'E']
   },
   {
@@ -405,7 +405,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Infraspinatus.',
     answerText: 'G',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/v.V7riqe0Rf4Fej3D5a-KA.png',
+    questionImage: '/images/v.V7riqe0Rf4Fej3D5a-KA.png',
     options: ['G', 'F', 'H', 'I']
   },
   {
@@ -413,7 +413,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Teres Minor.',
     answerText: 'F',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/v.V7riqe0Rf4Fej3D5a-KA.png',
+    questionImage: '/images/v.V7riqe0Rf4Fej3D5a-KA.png',
     options: ['F', 'G', 'E', 'D']
   },
   {
@@ -421,7 +421,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Teres Major.',
     answerText: 'E',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/v.V7riqe0Rf4Fej3D5a-KA.png',
+    questionImage: '/images/v.V7riqe0Rf4Fej3D5a-KA.png',
     options: ['E', 'F', 'G', 'D']
   },
   {
@@ -429,7 +429,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Rhomboid Major.',
     answerText: 'I',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/v.V7riqe0Rf4Fej3D5a-KA.png',
+    questionImage: '/images/v.V7riqe0Rf4Fej3D5a-KA.png',
     options: ['I', 'H', 'G', 'F']
   },
   {
@@ -437,7 +437,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Levator Scapulae (or Rhomboid Minor).',
     answerText: 'H',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/v.V7riqe0Rf4Fej3D5a-KA.png',
+    questionImage: '/images/v.V7riqe0Rf4Fej3D5a-KA.png',
     options: ['H', 'I', 'A', 'B']
   },
 
@@ -447,7 +447,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Gluteus Maximus.',
     answerText: 'E',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/P6.PP9VCuTsX7bKqCSmk-g.png',
+    questionImage: '/images/P6.PP9VCuTsX7bKqCSmk-g.png',
     options: ['E', 'D', 'L', 'M']
   },
   {
@@ -455,7 +455,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Biceps Femoris.',
     answerText: 'M',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/P6.PP9VCuTsX7bKqCSmk-g.png',
+    questionImage: '/images/P6.PP9VCuTsX7bKqCSmk-g.png',
     options: ['M', 'L', 'N', 'K']
   },
   {
@@ -463,7 +463,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Semitendinosus.',
     answerText: 'L',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/P6.PP9VCuTsX7bKqCSmk-g.png',
+    questionImage: '/images/P6.PP9VCuTsX7bKqCSmk-g.png',
     options: ['L', 'M', 'N', 'K']
   },
   {
@@ -471,7 +471,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Semimembranosus.',
     answerText: 'N',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/P6.PP9VCuTsX7bKqCSmk-g.png',
+    questionImage: '/images/P6.PP9VCuTsX7bKqCSmk-g.png',
     options: ['N', 'M', 'L', 'K']
   },
   {
@@ -479,7 +479,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Gastrocnemius.',
     answerText: 'O',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/P6.PP9VCuTsX7bKqCSmk-g.png',
+    questionImage: '/images/P6.PP9VCuTsX7bKqCSmk-g.png',
     options: ['O', 'P', 'N', 'M']
   },
   {
@@ -487,7 +487,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Soleus.',
     answerText: 'P',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/P6.PP9VCuTsX7bKqCSmk-g.png',
+    questionImage: '/images/P6.PP9VCuTsX7bKqCSmk-g.png',
     options: ['P', 'O', 'N', 'M']
   },
   {
@@ -495,7 +495,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Gluteus Medius.',
     answerText: 'J',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/P6.PP9VCuTsX7bKqCSmk-g.png',
+    questionImage: '/images/P6.PP9VCuTsX7bKqCSmk-g.png',
     options: ['J', 'E', 'K', 'L']
   },
   {
@@ -503,7 +503,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Adductor Magnus.',
     answerText: 'K',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/P6.PP9VCuTsX7bKqCSmk-g.png',
+    questionImage: '/images/P6.PP9VCuTsX7bKqCSmk-g.png',
     options: ['K', 'J', 'L', 'M']
   },
 
@@ -513,7 +513,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Biceps Brachii.',
     answerText: 'A',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/H6xxxhMbpYTwPLR0ttyLZw.png',
+    questionImage: '/images/H6xxxhMbpYTwPLR0ttyLZw.png',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -521,7 +521,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Brachialis.',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/H6xxxhMbpYTwPLR0ttyLZw.png',
+    questionImage: '/images/H6xxxhMbpYTwPLR0ttyLZw.png',
     options: ['B', 'A', 'C', 'D']
   },
   {
@@ -529,7 +529,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Brachioradialis.',
     answerText: 'C',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/H6xxxhMbpYTwPLR0ttyLZw.png',
+    questionImage: '/images/H6xxxhMbpYTwPLR0ttyLZw.png',
     options: ['C', 'A', 'B', 'D']
   },
   {
@@ -537,7 +537,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Pronator Teres.',
     answerText: 'D',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/H6xxxhMbpYTwPLR0ttyLZw.png',
+    questionImage: '/images/H6xxxhMbpYTwPLR0ttyLZw.png',
     options: ['D', 'C', 'B', 'A']
   },
   {
@@ -545,7 +545,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Flexor Carpi Radialis.',
     answerText: 'E',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/H6xxxhMbpYTwPLR0ttyLZw.png',
+    questionImage: '/images/H6xxxhMbpYTwPLR0ttyLZw.png',
     options: ['E', 'D', 'F', 'G']
   },
   {
@@ -553,7 +553,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Palmaris Longus.',
     answerText: 'F',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/H6xxxhMbpYTwPLR0ttyLZw.png',
+    questionImage: '/images/H6xxxhMbpYTwPLR0ttyLZw.png',
     options: ['F', 'E', 'G', 'D']
   },
   {
@@ -561,7 +561,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Flexor Carpi Ulnaris.',
     answerText: 'G',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/H6xxxhMbpYTwPLR0ttyLZw.png',
+    questionImage: '/images/H6xxxhMbpYTwPLR0ttyLZw.png',
     options: ['G', 'F', 'E', 'D']
   },
   {
@@ -569,7 +569,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Flexor Digitorum Superficialis.',
     answerText: 'H',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/H6xxxhMbpYTwPLR0ttyLZw.png',
+    questionImage: '/images/H6xxxhMbpYTwPLR0ttyLZw.png',
     options: ['H', 'G', 'F', 'E']
   },
 
@@ -579,7 +579,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Pectoralis Minor.',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/t6sjwptX67DflXhggiwI.g.png',
+    questionImage: '/images/t6sjwptX67DflXhggiwI.g.png',
     options: ['B', 'A', 'C', 'D']
   },
   {
@@ -587,7 +587,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Serratus Anterior.',
     answerText: 'C',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/t6sjwptX67DflXhggiwI.g.png',
+    questionImage: '/images/t6sjwptX67DflXhggiwI.g.png',
     options: ['C', 'B', 'A', 'D']
   },
   {
@@ -595,7 +595,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Rectus Abdominis.',
     answerText: 'D',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/t6sjwptX67DflXhggiwI.g.png',
+    questionImage: '/images/t6sjwptX67DflXhggiwI.g.png',
     options: ['D', 'C', 'E', 'F']
   },
   {
@@ -603,7 +603,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Internal Oblique.',
     answerText: 'E',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/t6sjwptX67DflXhggiwI.g.png',
+    questionImage: '/images/t6sjwptX67DflXhggiwI.g.png',
     options: ['E', 'D', 'F', 'G']
   },
   {
@@ -611,7 +611,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Transversus Abdominis.',
     answerText: 'H',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/t6sjwptX67DflXhggiwI.g.png',
+    questionImage: '/images/t6sjwptX67DflXhggiwI.g.png',
     options: ['H', 'G', 'F', 'E']
   },
   {
@@ -619,7 +619,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Linea Alba.',
     answerText: 'G',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/t6sjwptX67DflXhggiwI.g.png',
+    questionImage: '/images/t6sjwptX67DflXhggiwI.g.png',
     options: ['G', 'F', 'E', 'D']
   },
   {
@@ -627,7 +627,7 @@ export const questions: Question[] = [
     questionText: 'Identify the Rectus Sheath (Aponeurosis).',
     answerText: 'F',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/t6sjwptX67DflXhggiwI.g.png',
+    questionImage: '/images/t6sjwptX67DflXhggiwI.g.png',
     options: ['F', 'G', 'E', 'D']
   }
 ];

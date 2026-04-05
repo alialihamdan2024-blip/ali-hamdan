@@ -75,30 +75,6 @@ const diagramDatabase: DiagramMap[] = [
 
   // --- APPENDICULAR SKELETON ---
   {
-    id: 'boost-humerus-prox',
-    image: 'https://o.quizlet.com/tuGVXzbyVQ3nbBu4aMnecA.png',
-    category: 'Chapter 8: The Skeletal System: The Appendicular Skeleton',
-    title: 'Proximal Humerus',
-    labels: [
-      { letter: '1', name: 'Head of Humerus', description: 'Proximal ball', function: 'Articulates with glenoid cavity' },
-      { letter: '2', name: 'Anatomical Neck', description: 'Groove distal to head', function: 'Attachment for capsule' },
-      { letter: '3', name: 'Deltoid Tuberosity', description: 'Lateral shaft roughness', function: 'Insertion of deltoid' },
-      { letter: '4', name: 'Greater Tubercle', description: 'Lateral proximal projection', function: 'Rotator cuff attachment' }
-    ]
-  },
-  {
-    id: 'boost-humerus-dist',
-    image: 'https://o.quizlet.com/rg87NhVIFkENHia11N-pdg.png',
-    category: 'Chapter 8: The Skeletal System: The Appendicular Skeleton',
-    title: 'Distal Humerus',
-    labels: [
-      { letter: '1', name: 'Trochlea', description: 'Medial pulley-shaped condyle', function: 'Articulates with ulna' },
-      { letter: '2', name: 'Capitulum', description: 'Lateral rounded condyle', function: 'Articulates with radius' },
-      { letter: '3', name: 'Medial Epicondyle', description: 'Large medial projection', function: 'Flexor origin', clinical: 'Ulnar nerve runs behind' },
-      { letter: '4', name: 'Lateral Epicondyle', description: 'Small lateral projection', function: 'Extensor origin' }
-    ]
-  },
-  {
     id: 'boost-pelvis',
     image: 'https://o.quizlet.com/ZJ4wJNN0ukpH-ZktMP1UZw.png',
     category: 'Chapter 8: The Skeletal System: The Appendicular Skeleton',
@@ -439,24 +415,6 @@ const manualQuestions: Question[] = [
     questionImage: 'https://o.quizlet.com/yJj4.8386tkSSRsvg2tSEA.png',
     options: ['Infraorbital Foramen', 'Mental Foramen', 'Supraorbital Foramen', 'Incissive Foramen'],
     explanation: 'The infraorbital foramen is an opening in the maxillary bone.'
-  },
-  {
-    id: 'boost-ch8-hum-001',
-    questionText: 'Identify the rough surface on the lateral side of the humerus shaft where the major shoulder muscle attaches.',
-    answerText: 'Deltoid Tuberosity',
-    category: 'Chapter 8: The Skeletal System: The Appendicular Skeleton',
-    questionImage: 'https://o.quizlet.com/tuGVXzbyVQ3nbBu4aMnecA.png',
-    options: ['Deltoid Tuberosity', 'Greater Tubercle', 'Lesser Tubercle', 'Radial Groove'],
-    explanation: 'The deltoid tuberosity is a V-shaped area for deltoid muscle insertion.'
-  },
-  {
-    id: 'boost-ch8-hum-002',
-    questionText: 'Which structure of the humerus is a common site of fracture, located just distal to the tubercles?',
-    answerText: 'Surgical Neck',
-    category: 'Chapter 8: The Skeletal System: The Appendicular Skeleton',
-    questionImage: 'https://o.quizlet.com/tuGVXzbyVQ3nbBu4aMnecA.png',
-    options: ['Surgical Neck', 'Anatomical Neck', 'Intertubercular Sulcus', 'Shaft'],
-    explanation: 'The surgical neck is called so because fractures often occur here, requiring surgery.'
   },
   {
     id: 'boost-ch11-clin-001',

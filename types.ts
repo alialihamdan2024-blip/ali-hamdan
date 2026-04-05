@@ -23,5 +23,6 @@ export enum AppMode {
   FLASHCARDS = 'FLASHCARDS',
   QUIZ = 'QUIZ',
   LIST = 'LIST',
-  ATLAS = 'ATLAS'
+  ATLAS = 'ATLAS',
+  STUDIO = 'STUDIO'
 }

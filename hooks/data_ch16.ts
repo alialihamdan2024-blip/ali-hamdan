@@ -140,7 +140,7 @@ export const questions: Question[] = [
     questionText: 'Which of the neurons in the diagram would most likely pick up an itch sensation?',
     answerText: 'A',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/lwcTUZEFjWpCdHOkf--RHg.jpg',
+    questionImage: '/images/lwcTUZEFjWpCdHOkf--RHg.jpg',
     options: ['A', 'B', 'C', 'Both A and B', 'All of these choices']
   },
   {
@@ -148,7 +148,7 @@ export const questions: Question[] = [
     questionText: 'Which of the neurons in the diagram is modified in a manner that helps enhance the sensitivity of the receptor?',
     answerText: 'B',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/lwcTUZEFjWpCdHOkf--RHg.jpg',
+    questionImage: '/images/lwcTUZEFjWpCdHOkf--RHg.jpg',
     options: ['A', 'B', 'C', 'None of these choices', 'All of these choices']
   },
   {
@@ -156,7 +156,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures in the diagram is a pain receptor?',
     answerText: 'A',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/wQzFKYVsSrFi5hwkl1QMYg.jpg',
+    questionImage: '/images/wQzFKYVsSrFi5hwkl1QMYg.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -171,7 +171,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures in the diagram is a cutaneous mechanoreceptor that senses pressure and fast vibrations?',
     answerText: 'E',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/wQzFKYVsSrFi5hwkl1QMYg.jpg',
+    questionImage: '/images/wQzFKYVsSrFi5hwkl1QMYg.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -186,7 +186,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures in the diagram represents a type II cutaneous mechanoreceptor that monitors the stretching of skin?',
     answerText: 'D',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/wQzFKYVsSrFi5hwkl1QMYg.jpg',
+    questionImage: '/images/wQzFKYVsSrFi5hwkl1QMYg.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -201,7 +201,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures in the diagram is a lamellated corpuscle?',
     answerText: 'E',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/wQzFKYVsSrFi5hwkl1QMYg.jpg',
+    questionImage: '/images/wQzFKYVsSrFi5hwkl1QMYg.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -209,7 +209,7 @@ export const questions: Question[] = [
     questionText: 'Which labeled neuron conducts impulses from the thalamus to the primary somatosensory area of the cerebral cortex?',
     answerText: 'C',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/YfBGfXEc35r28bLv2uqfrg.jpg',
+    questionImage: '/images/YfBGfXEc35r28bLv2uqfrg.jpg',
     options: ['A', 'B', 'C', 'More than one answer selection is correct', 'None of the answer selections are correct']
   },
   {
@@ -217,7 +217,7 @@ export const questions: Question[] = [
     questionText: 'What do colored regions on body\'s surface in the diagram represent?',
     answerText: 'Areas of referred pain',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/mS6.S77TR6GFsydxCD17xA.jpg',
+    questionImage: '/images/mS6.S77TR6GFsydxCD17xA.jpg',
     options: ['Dermatomes', 'Areas of referred pain', 'Regions of nociceptors', 'Areas supplied by the primary somatosensory area', 'Motor nuclei']
   },
   {
@@ -239,7 +239,7 @@ export const questions: Question[] = [
     questionText: 'Which labeled neuron is considered to be a second-order neuron?',
     answerText: 'B',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/YfBGfXEc35r28bLv2uqfrg.jpg',
+    questionImage: '/images/YfBGfXEc35r28bLv2uqfrg.jpg',
     options: ['A', 'B', 'C', 'More than one answer selection is correct', 'None of the answer selections are correct']
   },
   {
@@ -254,7 +254,7 @@ export const questions: Question[] = [
     questionText: 'Which labeled neuron conducts impulses from the peripheral somatic receptors into the brain or spinal cord?',
     answerText: 'A',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/YfBGfXEc35r28bLv2uqfrg.jpg',
+    questionImage: '/images/YfBGfXEc35r28bLv2uqfrg.jpg',
     options: ['A', 'B', 'C', 'More than one answer selection is correct', 'None of the answer selections are correct']
   },
   {
@@ -269,7 +269,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures in the diagram of the trigeminothalamic pathway is the trigeminal ganglion?',
     answerText: 'B',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/940k8YKwbZp23bbtwb7ddw.jpg',
+    questionImage: '/images/940k8YKwbZp23bbtwb7ddw.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -277,7 +277,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures in the diagram of the trigeminothalamic pathway is the trigeminothalamic tract?',
     answerText: 'A',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/940k8YKwbZp23bbtwb7ddw.jpg',
+    questionImage: '/images/940k8YKwbZp23bbtwb7ddw.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -285,7 +285,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures in the diagram of the trigeminothalamic pathway is the trigeminal nerve?',
     answerText: 'C',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/940k8YKwbZp23bbtwb7ddw.jpg',
+    questionImage: '/images/940k8YKwbZp23bbtwb7ddw.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -293,7 +293,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures in the diagram of the trigeminothalamic pathway is a second-order neuron?',
     answerText: 'E',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/940k8YKwbZp23bbtwb7ddw.jpg',
+    questionImage: '/images/940k8YKwbZp23bbtwb7ddw.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -301,7 +301,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures in the diagram of the trigeminothalamic pathway is the first-order neuron?',
     answerText: 'D',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/940k8YKwbZp23bbtwb7ddw.jpg',
+    questionImage: '/images/940k8YKwbZp23bbtwb7ddw.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -309,7 +309,7 @@ export const questions: Question[] = [
     questionText: 'Visceral pain coming from the lung and diaphragm is referred to which location(s) in the diagram?',
     answerText: 'A',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/uhBt81r1SsM7.CUCvQBPeg.png',
+    questionImage: '/images/uhBt81r1SsM7.CUCvQBPeg.png',
     options: ['A', 'B', 'C', 'G', 'H']
   },
   {
@@ -317,7 +317,7 @@ export const questions: Question[] = [
     questionText: 'Visceral pain coming from the liver and gallbladder is referred to which location(s) in the diagram?',
     answerText: 'B',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/uhBt81r1SsM7.CUCvQBPeg.png',
+    questionImage: '/images/uhBt81r1SsM7.CUCvQBPeg.png',
     options: ['B', 'G', 'H', 'F', 'D']
   },
   {
@@ -325,7 +325,7 @@ export const questions: Question[] = [
     questionText: 'Visceral pain coming from the stomach is referred to which location(s) in the diagram?',
     answerText: 'G',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/uhBt81r1SsM7.CUCvQBPeg.png',
+    questionImage: '/images/uhBt81r1SsM7.CUCvQBPeg.png',
     options: ['B', 'G', 'C', 'F', 'E']
   },
   {
@@ -333,7 +333,7 @@ export const questions: Question[] = [
     questionText: 'Visceral pain coming from the pancreas is referred to which location(s) in the diagram?',
     answerText: 'H',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/uhBt81r1SsM7.CUCvQBPeg.png',
+    questionImage: '/images/uhBt81r1SsM7.CUCvQBPeg.png',
     options: ['B', 'D', 'H', 'F', 'E']
   },
   {
@@ -341,7 +341,7 @@ export const questions: Question[] = [
     questionText: 'Visceral pain coming from the ovaries is referred to which location(s) in the diagram?',
     answerText: 'F',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/uhBt81r1SsM7.CUCvQBPeg.png',
+    questionImage: '/images/uhBt81r1SsM7.CUCvQBPeg.png',
     options: ['D', 'E', 'B', 'F', 'A']
   },
   {
@@ -349,7 +349,7 @@ export const questions: Question[] = [
     questionText: 'Visceral pain coming from the heart is referred to which location(s) in the diagram?',
     answerText: 'C',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/uhBt81r1SsM7.CUCvQBPeg.png',
+    questionImage: '/images/uhBt81r1SsM7.CUCvQBPeg.png',
     options: ['C', 'G', 'B', 'H', 'A']
   },
   {
@@ -357,7 +357,7 @@ export const questions: Question[] = [
     questionText: 'Visceral pain coming from the urinary bladder is referred to which location(s) in the diagram?',
     answerText: 'E',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/uhBt81r1SsM7.CUCvQBPeg.png',
+    questionImage: '/images/uhBt81r1SsM7.CUCvQBPeg.png',
     options: ['D', 'F', 'E', 'H', 'G']
   },
   {
@@ -365,7 +365,7 @@ export const questions: Question[] = [
     questionText: 'Visceral pain coming from the kidney is referred to which location(s) in the diagram?',
     answerText: 'D',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/uhBt81r1SsM7.CUCvQBPeg.png',
+    questionImage: '/images/uhBt81r1SsM7.CUCvQBPeg.png',
     options: ['D', 'B', 'G', 'H', 'F']
   },
   {
@@ -464,7 +464,7 @@ export const questions: Question[] = [
     questionText: 'Identify the thin protective mucous membrane composed of stratified squamous epithelium with numerous goblet cells.',
     answerText: 'A and B',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/gT3-95u.IHxEP05FyMQprg.png',
+    questionImage: '/images/gT3-95u.IHxEP05FyMQprg.png',
     options: ['A and B', 'B and D', 'C and A', 'D and C', 'B and E']
   },
   {
@@ -472,7 +472,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure that secretes a fluid that keeps the eyelids from sticking to each other.',
     answerText: 'E',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/gT3-95u.IHxEP05FyMQprg.png',
+    questionImage: '/images/gT3-95u.IHxEP05FyMQprg.png',
     options: ['D', 'E', 'F', 'G', 'None of these choices']
   },
   {
@@ -480,7 +480,7 @@ export const questions: Question[] = [
     questionText: 'Identify the optic nerve.',
     answerText: 'F',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/U5hBro0wq2Rx89loOm5bwQ.png',
+    questionImage: '/images/U5hBro0wq2Rx89loOm5bwQ.png',
     options: ['C', 'D', 'E', 'F', 'None of these choices']
   },
   {
@@ -488,7 +488,7 @@ export const questions: Question[] = [
     questionText: 'Identify the choroid.',
     answerText: 'E',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/U5hBro0wq2Rx89loOm5bwQ.png',
+    questionImage: '/images/U5hBro0wq2Rx89loOm5bwQ.png',
     options: ['F', 'E', 'D', 'G', 'H']
   },
   {
@@ -496,7 +496,7 @@ export const questions: Question[] = [
     questionText: 'Identify the sclera.',
     answerText: 'D',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/U5hBro0wq2Rx89loOm5bwQ.png',
+    questionImage: '/images/U5hBro0wq2Rx89loOm5bwQ.png',
     options: ['F', 'E', 'D', 'G', 'H']
   },
   {
@@ -504,7 +504,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure that contains aqueous humor.',
     answerText: 'G',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/U5hBro0wq2Rx89loOm5bwQ.png',
+    questionImage: '/images/U5hBro0wq2Rx89loOm5bwQ.png',
     options: ['A', 'G', 'H', 'F', 'D']
   },
   {
@@ -512,7 +512,7 @@ export const questions: Question[] = [
     questionText: 'Identify the ciliary body.',
     answerText: 'H',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/U5hBro0wq2Rx89loOm5bwQ.png',
+    questionImage: '/images/U5hBro0wq2Rx89loOm5bwQ.png',
     options: ['A', 'B', 'C', 'H', 'F']
   },
   {
@@ -520,7 +520,7 @@ export const questions: Question[] = [
     questionText: 'Which labeled structure is the blind spot of the eye?',
     answerText: 'B',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/U5hBro0wq2Rx89loOm5bwQ.png',
+    questionImage: '/images/U5hBro0wq2Rx89loOm5bwQ.png',
     options: ['A', 'B', 'C', 'G', 'H']
   },
   {
@@ -528,7 +528,7 @@ export const questions: Question[] = [
     questionText: 'Identify the bipolar cell layer.',
     answerText: 'B',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/gg2-sQ64WAIv96G0Fspt4Q.png',
+    questionImage: '/images/gg2-sQ64WAIv96G0Fspt4Q.png',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -536,7 +536,7 @@ export const questions: Question[] = [
     questionText: 'Identify the ganglion cell layer.',
     answerText: 'D',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/gg2-sQ64WAIv96G0Fspt4Q.png',
+    questionImage: '/images/gg2-sQ64WAIv96G0Fspt4Q.png',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -544,7 +544,7 @@ export const questions: Question[] = [
     questionText: 'Which figure illustrates farsightedness before it has been corrected?',
     answerText: 'D',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/gcLiRfLu8Vd47.AuEz70Kg.png',
+    questionImage: '/images/gcLiRfLu8Vd47.AuEz70Kg.png',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -552,7 +552,7 @@ export const questions: Question[] = [
     questionText: 'Which figure illustrates nearsightedness before it has been corrected?',
     answerText: 'B',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/gcLiRfLu8Vd47.AuEz70Kg.png',
+    questionImage: '/images/gcLiRfLu8Vd47.AuEz70Kg.png',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -560,7 +560,7 @@ export const questions: Question[] = [
     questionText: 'Which labeled step(s) represents regeneration of active photopigment?',
     answerText: '4',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/ctJas4nXUZtZUGGtt1tyDg.png',
+    questionImage: '/images/ctJas4nXUZtZUGGtt1tyDg.png',
     options: ['1', '2', '3', '4', 'Both 1 and 3']
   },
   {
@@ -568,7 +568,7 @@ export const questions: Question[] = [
     questionText: 'Which labeled step(s) represents bleaching of the photopigment?',
     answerText: '2',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/ctJas4nXUZtZUGGtt1tyDg.png',
+    questionImage: '/images/ctJas4nXUZtZUGGtt1tyDg.png',
     options: ['1', '2', '3', '4']
   },
   {
@@ -576,7 +576,7 @@ export const questions: Question[] = [
     questionText: 'Identify the internal auditory canal.',
     answerText: 'D',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/vtBT0CuTw7mQGEjZoHMPLg.png',
+    questionImage: '/images/vtBT0CuTw7mQGEjZoHMPLg.png',
     options: ['C', 'D', 'E', 'F', 'H']
   },
   {
@@ -584,7 +584,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure that is a thin semi-transparent partition between the external auditory canal and the middle ear?',
     answerText: 'K',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/vtBT0CuTw7mQGEjZoHMPLg.png',
+    questionImage: '/images/vtBT0CuTw7mQGEjZoHMPLg.png',
     options: ['K', 'G', 'J', 'B']
   },
   {
@@ -592,7 +592,7 @@ export const questions: Question[] = [
     questionText: 'Identify the auditory ossicles.',
     answerText: 'A, B, J',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/vtBT0CuTw7mQGEjZoHMPLg.png',
+    questionImage: '/images/vtBT0CuTw7mQGEjZoHMPLg.png',
     options: ['A, B, C', 'A, C, G', 'A, B, J', 'J, C, G', 'C, D, G']
   },
   {
@@ -600,7 +600,7 @@ export const questions: Question[] = [
     questionText: 'Which portion of the inner ear is divided into three channels?',
     answerText: 'G',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/vtBT0CuTw7mQGEjZoHMPLg.png',
+    questionImage: '/images/vtBT0CuTw7mQGEjZoHMPLg.png',
     options: ['G', 'D', 'E', 'F']
   },
   {
@@ -608,7 +608,7 @@ export const questions: Question[] = [
     questionText: 'Which part of the diagram contains the olfactory bulb neurons?',
     answerText: 'A',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/iueSVHIzwtMETIvqN0m1ag.png',
+    questionImage: '/images/iueSVHIzwtMETIvqN0m1ag.png',
     options: ['A', 'B', 'E', 'F', 'H']
   },
   {
@@ -616,7 +616,7 @@ export const questions: Question[] = [
     questionText: 'Which structure in the diagram produces mucus?',
     answerText: 'C',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/iueSVHIzwtMETIvqN0m1ag.png',
+    questionImage: '/images/iueSVHIzwtMETIvqN0m1ag.png',
     options: ['C', 'A', 'F', 'G', 'I']
   },
   {
@@ -624,7 +624,7 @@ export const questions: Question[] = [
     questionText: 'Which structure labeled in the diagram contains the receptors that bind the inhaled chemicals?',
     answerText: 'I',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/iueSVHIzwtMETIvqN0m1ag.png',
+    questionImage: '/images/iueSVHIzwtMETIvqN0m1ag.png',
     options: ['H', 'G', 'I', 'E', 'L']
   },
   {
@@ -632,7 +632,7 @@ export const questions: Question[] = [
     questionText: 'Which structure in the diagram is the olfactory epithelium?',
     answerText: 'K',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/iueSVHIzwtMETIvqN0m1ag.png',
+    questionImage: '/images/iueSVHIzwtMETIvqN0m1ag.png',
     options: ['C', 'D', 'G', 'K', 'F']
   },
   {
@@ -640,7 +640,7 @@ export const questions: Question[] = [
     questionText: 'Which structure in the diagram is an opening in the taste bud?',
     answerText: 'A',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/2g-0IfJogdw7O90g9Teoeg.png',
+    questionImage: '/images/2g-0IfJogdw7O90g9Teoeg.png',
     options: ['A', 'B', 'C', 'D', 'G']
   },
   {
@@ -648,7 +648,7 @@ export const questions: Question[] = [
     questionText: 'The plasma membrane of which structure in the diagram is the initiation site of taste transduction?',
     answerText: 'B',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/2g-0IfJogdw7O90g9Teoeg.png',
+    questionImage: '/images/2g-0IfJogdw7O90g9Teoeg.png',
     options: ['F', 'B', 'D', 'E', 'G']
   },
   {
@@ -656,7 +656,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled papilla houses 100-300 taste buds each?',
     answerText: 'A',
     category: 'Chapter 16: Sensory, Motor & Integrative Systems',
-    questionImage: 'https://o.quizlet.com/5HUUVbERYNSms14Km3HasA.png',
+    questionImage: '/images/5HUUVbERYNSms14Km3HasA.png',
     options: ['A', 'B', 'C', 'D', 'Both A and D']
   }
 ];

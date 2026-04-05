@@ -210,7 +210,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures in the diagram contains centers that control heart rate and blood pressure?',
     answerText: 'D',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/UaMOd-osmyKUdQmPHol5Iw.jpg',
+    questionImage: '/images/UaMOd-osmyKUdQmPHol5Iw.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -218,7 +218,7 @@ export const questions: Question[] = [
     questionText: 'This major portion of the brain is used to monitor movements initiated by the motor areas of the cerebrum.',
     answerText: 'E',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/UaMOd-osmyKUdQmPHol5Iw.jpg',
+    questionImage: '/images/UaMOd-osmyKUdQmPHol5Iw.jpg',
     options: ['A', 'B', 'C', 'E', 'F']
   },
   {
@@ -226,7 +226,7 @@ export const questions: Question[] = [
     questionText: 'Anosmia may result from head injuries in which the cribriform plate of the ethmoid bone is fractured. This condition results in impaired function of which cranial nerve in the diagram?',
     answerText: 'A',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -234,7 +234,7 @@ export const questions: Question[] = [
     questionText: 'Which cranial nerve in the diagram has a somatic motor function primarily involved in moving the upper eyelid and eyeball?',
     answerText: 'C',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -242,7 +242,7 @@ export const questions: Question[] = [
     questionText: 'Which cranial nerve in the diagram has an autonomic motor function primarily involved in near vision accommodation and constriction of the pupil?',
     answerText: 'C',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -250,7 +250,7 @@ export const questions: Question[] = [
     questionText: 'Damage to which of the cranial nerves in the diagram would result in strabismus?',
     answerText: 'C',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -258,7 +258,7 @@ export const questions: Question[] = [
     questionText: 'Which cranial nerve in the diagram has a somatic motor function primarily involved in chewing?',
     answerText: 'E',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['E', 'G', 'H', 'I', 'J']
   },
   {
@@ -266,7 +266,7 @@ export const questions: Question[] = [
     questionText: 'The maxillary branch of this labeled cranial nerve is found in the area where dentists apply anesthetic drugs for numbing the upper jaw.',
     answerText: 'E',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['E', 'G', 'H', 'I', 'J']
   },
   {
@@ -274,7 +274,7 @@ export const questions: Question[] = [
     questionText: 'Which cranial nerve in the diagram innervates the lateral rectus muscle?',
     answerText: 'F',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['B', 'C', 'D', 'E', 'F']
   },
   {
@@ -282,7 +282,7 @@ export const questions: Question[] = [
     questionText: 'Damage to which cranial nerve in the diagram will cause the inability of an eyeball to move laterally beyond the midpoint?',
     answerText: 'F',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['B', 'C', 'D', 'E', 'F']
   },
   {
@@ -290,7 +290,7 @@ export const questions: Question[] = [
     questionText: 'Which cranial nerve in the diagram has an autonomic motor function primarily involved in the secretion of saliva and tears?',
     answerText: 'G',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['B', 'C', 'D', 'F', 'G']
   },
   {
@@ -298,7 +298,7 @@ export const questions: Question[] = [
     questionText: 'Damage to which cranial nerve in the diagram by shingles or Lyme disease produces Bell\'s palsy?',
     answerText: 'G',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['F', 'G', 'H', 'I', 'L']
   },
   {
@@ -306,7 +306,7 @@ export const questions: Question[] = [
     questionText: 'Which cranial nerve in the diagram has an autonomic motor function primarily involved in stimulating secretion of saliva?',
     answerText: 'I',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['F', 'I', 'J', 'K', 'L']
   },
   {
@@ -314,7 +314,7 @@ export const questions: Question[] = [
     questionText: 'Which cranial nerve in the diagram causes heart rate to decrease?',
     answerText: 'K',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['H', 'I', 'J', 'K', 'L']
   },
   {
@@ -322,7 +322,7 @@ export const questions: Question[] = [
     questionText: 'Which cranial nerve in the diagram is involved with speech and swallowing and has a purely motor function?',
     answerText: 'L',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
+    questionImage: '/images/yAdhN4XWVZDE.XDlPz8C-Q.jpg',
     options: ['H', 'I', 'J', 'K', 'L']
   },
   {
@@ -428,7 +428,7 @@ export const questions: Question[] = [
     questionText: 'Which structure is the pons?',
     answerText: 'b',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/naYZJrXv.vtlPCPCeeVjZg.jpg',
+    questionImage: '/images/naYZJrXv.vtlPCPCeeVjZg.jpg',
     options: ['a', 'b', 'c', 'd', 'e']
   },
   {
@@ -485,7 +485,7 @@ export const questions: Question[] = [
     questionText: 'Identify the cerebral cortex in this illustration.',
     answerText: 'C',
     category: 'Chapter 14: The Brain and Cranial Nerves',
-    questionImage: 'https://o.quizlet.com/ozwbup.qUD66j1kC8-OLfw.jpg',
+    questionImage: '/images/ozwbup.qUD66j1kC8-OLfw.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {

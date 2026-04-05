@@ -21,7 +21,7 @@ export const questions: Question[] = [
     questionText: 'Identify the muscle that is controlled by the abducens nerve (CN VI).',
     answerText: 'B',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/gujDVfiQ3TVSO16Lh9OAaA.jpg',
+    questionImage: '/images/gujDVfiQ3TVSO16Lh9OAaA.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -29,7 +29,7 @@ export const questions: Question[] = [
     questionText: 'Identify the muscle responsible for depressing the eye and turning it laterally.',
     answerText: 'A',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/gujDVfiQ3TVSO16Lh9OAaA.jpg',
+    questionImage: '/images/gujDVfiQ3TVSO16Lh9OAaA.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -37,7 +37,7 @@ export const questions: Question[] = [
     questionText: 'Name the muscle at D.',
     answerText: 'inferior rectus',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/gujDVfiQ3TVSO16Lh9OAaA.jpg',
+    questionImage: '/images/gujDVfiQ3TVSO16Lh9OAaA.jpg',
     options: ['superior rectus', 'inferior rectus', 'lateral rectus', 'medial rectus', 'superior oblique']
   },
   {
@@ -45,7 +45,7 @@ export const questions: Question[] = [
     questionText: 'Which layer of the eye is indicated by letter A?',
     answerText: 'fibrous',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/IXhcNm1pjvegh1-Pp7raNg.jpg',
+    questionImage: '/images/IXhcNm1pjvegh1-Pp7raNg.jpg',
     options: ['fibrous', 'vascular', 'neural', 'pigmented']
   },
   {
@@ -53,7 +53,7 @@ export const questions: Question[] = [
     questionText: 'Identify the choroid.',
     answerText: 'B',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/IXhcNm1pjvegh1-Pp7raNg.jpg',
+    questionImage: '/images/IXhcNm1pjvegh1-Pp7raNg.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -61,7 +61,7 @@ export const questions: Question[] = [
     questionText: 'Identify the layer that contains both a single-celled pigmented layer and a neural layer.',
     answerText: 'C',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/IXhcNm1pjvegh1-Pp7raNg.jpg',
+    questionImage: '/images/IXhcNm1pjvegh1-Pp7raNg.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -69,7 +69,7 @@ export const questions: Question[] = [
     questionText: 'Identify the type of neuronal cell that detects bright light and provides high-resolution color vision.',
     answerText: 'C',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/Jx6QW725O.apeGAlpZgueg.jpg',
+    questionImage: '/images/Jx6QW725O.apeGAlpZgueg.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -77,7 +77,7 @@ export const questions: Question[] = [
     questionText: 'Identify the type of neuron that would be secreting neurotransmitter in the light.',
     answerText: 'A and B',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/Jx6QW725O.apeGAlpZgueg.jpg',
+    questionImage: '/images/Jx6QW725O.apeGAlpZgueg.jpg',
     options: ['A and B', 'C and D', 'A only', 'B only']
   },
   {
@@ -85,7 +85,7 @@ export const questions: Question[] = [
     questionText: 'Identify the neuron that is last in the transmission pathway of light information, given the cells shown in this image.',
     answerText: 'A',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/Jx6QW725O.apeGAlpZgueg.jpg',
+    questionImage: '/images/Jx6QW725O.apeGAlpZgueg.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -163,7 +163,7 @@ export const questions: Question[] = [
     questionText: 'What term refers to the eye\'s moving medially to track items close at hand?',
     answerText: 'convergence',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/ZpduZXbbBgL088GSVD.7Ww.jpg',
+    questionImage: '/images/ZpduZXbbBgL088GSVD.7Ww.jpg',
     options: ['convergence', 'accommodation', 'divergence', 'refraction']
   },
   {
@@ -171,7 +171,7 @@ export const questions: Question[] = [
     questionText: 'This image best illustrates an eyeball that is __________.',
     answerText: 'emmetropic',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/ZpduZXbbBgL088GSVD.7Ww.jpg',
+    questionImage: '/images/ZpduZXbbBgL088GSVD.7Ww.jpg',
     options: ['emmetropic', 'myopic', 'hyperopic', 'presbyopic']
   },
   {
@@ -249,7 +249,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure that forms cranial nerve I.',
     answerText: 'C',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/5DxFe54ufGRCNv7YScWueQ.jpg',
+    questionImage: '/images/5DxFe54ufGRCNv7YScWueQ.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -257,7 +257,7 @@ export const questions: Question[] = [
     questionText: 'Which cells in this pathway are ciliated?',
     answerText: 'D',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/5DxFe54ufGRCNv7YScWueQ.jpg',
+    questionImage: '/images/5DxFe54ufGRCNv7YScWueQ.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -265,7 +265,7 @@ export const questions: Question[] = [
     questionText: 'Which of these is NOT found in the olfactory epithelium?',
     answerText: 'olfactory tracts',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/5DxFe54ufGRCNv7YScWueQ.jpg',
+    questionImage: '/images/5DxFe54ufGRCNv7YScWueQ.jpg',
     options: ['olfactory tracts', 'olfactory receptor cells', 'supporting cells', 'basal cells']
   },
   {
@@ -294,7 +294,7 @@ export const questions: Question[] = [
     questionText: 'Which of these lettered structures serve as the taste cells?',
     answerText: 'C',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/8MaQIjQV3qMl6dc3pIKC8Q.jpg',
+    questionImage: '/images/8MaQIjQV3qMl6dc3pIKC8Q.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -302,7 +302,7 @@ export const questions: Question[] = [
     questionText: 'Name the types of papillae that contain taste buds.',
     answerText: 'fungiform, foliate, and vallate',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/8MaQIjQV3qMl6dc3pIKC8Q.jpg',
+    questionImage: '/images/8MaQIjQV3qMl6dc3pIKC8Q.jpg',
     options: ['fungiform, foliate, and vallate', 'filiform only', 'fungiform only', 'vallate only']
   },
   {
@@ -310,7 +310,7 @@ export const questions: Question[] = [
     questionText: 'What is the purpose of the cell at letter B?',
     answerText: 'to replace gustatory cells that are damaged',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/8MaQIjQV3qMl6dc3pIKC8Q.jpg',
+    questionImage: '/images/8MaQIjQV3qMl6dc3pIKC8Q.jpg',
     options: ['to replace gustatory cells that are damaged', 'to support the taste bud', 'to detect taste', 'to secrete mucus']
   },
   {
@@ -346,7 +346,7 @@ export const questions: Question[] = [
     questionText: 'Which region of the ear houses perilymph and endolymph?',
     answerText: 'C',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/1.tSCkIkvq.1DWPEqKDeyQ.jpg',
+    questionImage: '/images/1.tSCkIkvq.1DWPEqKDeyQ.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -354,7 +354,7 @@ export const questions: Question[] = [
     questionText: 'Which letter indicates structures involved in detection of BOTH hearing and equilibrium?',
     answerText: 'C',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/1.tSCkIkvq.1DWPEqKDeyQ.jpg',
+    questionImage: '/images/1.tSCkIkvq.1DWPEqKDeyQ.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -362,7 +362,7 @@ export const questions: Question[] = [
     questionText: 'A middle ear infection (otitis media) would be located in which region?',
     answerText: 'B',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/1.tSCkIkvq.1DWPEqKDeyQ.jpg',
+    questionImage: '/images/1.tSCkIkvq.1DWPEqKDeyQ.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -370,7 +370,7 @@ export const questions: Question[] = [
     questionText: 'Damage to which of these structures can result in sensorineural deafness?',
     answerText: 'D',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/Yedv9PwCRRZ1tMQIaWAlFQ.jpg',
+    questionImage: '/images/Yedv9PwCRRZ1tMQIaWAlFQ.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -378,7 +378,7 @@ export const questions: Question[] = [
     questionText: 'Otosclerosis, which can result in conduction deafness, affects which of these structures?',
     answerText: 'A',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/Yedv9PwCRRZ1tMQIaWAlFQ.jpg',
+    questionImage: '/images/Yedv9PwCRRZ1tMQIaWAlFQ.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -386,7 +386,7 @@ export const questions: Question[] = [
     questionText: 'What are the names of the bones at A, in order from left to right?',
     answerText: 'malleus, incus, stapes',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/Yedv9PwCRRZ1tMQIaWAlFQ.jpg',
+    questionImage: '/images/Yedv9PwCRRZ1tMQIaWAlFQ.jpg',
     options: ['malleus, incus, stapes', 'incus, stapes, malleus', 'stapes, malleus, incus', 'incus, malleus, stapes']
   },
   {
@@ -394,7 +394,7 @@ export const questions: Question[] = [
     questionText: 'What part of the inner ear houses the receptor organ of hearing, the spiral organ (organ of Corti)?',
     answerText: 'D',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/aPvSuhM-RioXFFnOOnqyUQ.jpg',
+    questionImage: '/images/aPvSuhM-RioXFFnOOnqyUQ.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -402,7 +402,7 @@ export const questions: Question[] = [
     questionText: 'Which part of the inner ear houses receptors for rotational (angular) movement of the head?',
     answerText: 'A',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/aPvSuhM-RioXFFnOOnqyUQ.jpg',
+    questionImage: '/images/aPvSuhM-RioXFFnOOnqyUQ.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -410,7 +410,7 @@ export const questions: Question[] = [
     questionText: 'Name the enlarged swelling at the end of A that is a sensory structure.',
     answerText: 'ampulla',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/aPvSuhM-RioXFFnOOnqyUQ.jpg',
+    questionImage: '/images/aPvSuhM-RioXFFnOOnqyUQ.jpg',
     options: ['ampulla', 'cupula', 'macula', 'otolith']
   },
   {
@@ -446,7 +446,7 @@ export const questions: Question[] = [
     questionText: 'Name the structure represented by (1).',
     answerText: 'tympanic membrane',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/dRcFyOEDHUXDMKRJ5BYKRQ.jpg',
+    questionImage: '/images/dRcFyOEDHUXDMKRJ5BYKRQ.jpg',
     options: ['tympanic membrane', 'oval window', 'round window', 'basilar membrane']
   },
   {
@@ -454,7 +454,7 @@ export const questions: Question[] = [
     questionText: 'Identify the function of (2) in this image.',
     answerText: 'They conduct sound waves and amplify the vibrations within the middle ear.',
     category: 'Chapter 14: Special Senses',
-    questionImage: 'https://o.quizlet.com/dRcFyOEDHUXDMKRJ5BYKRQ.jpg',
+    questionImage: '/images/dRcFyOEDHUXDMKRJ5BYKRQ.jpg',
     options: ['They conduct sound waves and amplify the vibrations within the middle ear.', 'They equalize pressure.', 'They contain receptors for hearing.', 'They filter sound.']
   },
   {

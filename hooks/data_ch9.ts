@@ -297,7 +297,7 @@ export const questions: Question[] = [
     questionText: 'What type of joint is shown in the diagram? (Variant 1)',
     answerText: 'Syndesmosis',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/EQ3CZ6Pl4PtLP1ka3rovGw.png',
+    questionImage: '/images/EQ3CZ6Pl4PtLP1ka3rovGw.png',
     options: ['Suture', 'Syndesmosis', 'Symphysis', 'Cartilaginous', 'Synovial']
   },
   {
@@ -305,7 +305,7 @@ export const questions: Question[] = [
     questionText: 'What type of joint is shown in the diagram? (Variant 2)',
     answerText: 'Gomphosis',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/cb8nhfepk6cxESyEr5AuqQ.png',
+    questionImage: '/images/cb8nhfepk6cxESyEr5AuqQ.png',
     options: ['Suture', 'Synostosis', 'Symphysis', 'Synovial', 'Gomphosis']
   },
   {
@@ -313,7 +313,7 @@ export const questions: Question[] = [
     questionText: 'In the figure, what represents a saddle joint?',
     answerText: 'E',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/OKAIwD26NRAS8pXQSEYdGg.png',
+    questionImage: '/images/OKAIwD26NRAS8pXQSEYdGg.png',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -321,7 +321,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, what represents a pivot joint?',
     answerText: 'C',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/OKAIwD26NRAS8pXQSEYdGg.png',
+    questionImage: '/images/OKAIwD26NRAS8pXQSEYdGg.png',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -329,7 +329,7 @@ export const questions: Question[] = [
     questionText: 'Which of the joints shown in the figure is classified as a multiaxial joint?',
     answerText: 'F',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/OKAIwD26NRAS8pXQSEYdGg.png',
+    questionImage: '/images/OKAIwD26NRAS8pXQSEYdGg.png',
     options: ['B', 'C', 'D', 'E', 'F']
   },
   {
@@ -337,7 +337,7 @@ export const questions: Question[] = [
     questionText: 'Which of the joints shown in the figure is classified as a biaxial joint?',
     answerText: 'More than one selection is correct',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/OKAIwD26NRAS8pXQSEYdGg.png',
+    questionImage: '/images/OKAIwD26NRAS8pXQSEYdGg.png',
     options: ['B', 'C', 'D', 'E', 'More than one selection is correct']
   },
   {
@@ -345,7 +345,7 @@ export const questions: Question[] = [
     questionText: 'Which of the joints shown in the figure is classified as a monaxial joint?',
     answerText: 'B and C',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/OKAIwD26NRAS8pXQSEYdGg.png',
+    questionImage: '/images/OKAIwD26NRAS8pXQSEYdGg.png',
     options: ['A', 'B', 'C', 'D', 'B and C']
   },
   {
@@ -353,7 +353,7 @@ export const questions: Question[] = [
     questionText: 'Which of the joints shown in the figure represents a condyloid joint?',
     answerText: 'D',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/OKAIwD26NRAS8pXQSEYdGg.png',
+    questionImage: '/images/OKAIwD26NRAS8pXQSEYdGg.png',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -361,7 +361,7 @@ export const questions: Question[] = [
     questionText: 'Which of the joints shown in the figure only permits back-and-forth and side-to-side movements between the articulating bones?',
     answerText: 'A',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/OKAIwD26NRAS8pXQSEYdGg.png',
+    questionImage: '/images/OKAIwD26NRAS8pXQSEYdGg.png',
     options: ['A', 'B', 'C', 'D', 'Both A and B']
   },
   {
@@ -369,7 +369,7 @@ export const questions: Question[] = [
     questionText: 'Which type of joint permits the movement shown in this image (opposition)?',
     answerText: 'Saddle joint',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/eKoj.F04ebuM0wzRoygS.Q.png',
+    questionImage: '/images/eKoj.F04ebuM0wzRoygS.Q.png',
     options: ['Saddle joint', 'Hinge joint', 'Pivot joint', 'Ball-and-socket joint', 'Planar joint']
   },
   {
@@ -377,7 +377,7 @@ export const questions: Question[] = [
     questionText: 'Which of the panels in the figure shows a movement called lateral flexion?',
     answerText: 'G',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/.1H1fCEfTxLsnFqQ35zZJw.png',
+    questionImage: '/images/.1H1fCEfTxLsnFqQ35zZJw.png',
     options: ['B', 'F', 'G', 'D', 'C']
   },
   {
@@ -385,7 +385,7 @@ export const questions: Question[] = [
     questionText: 'Which of the following types of movement is shown in diagram E?',
     answerText: 'adduction',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/sYA0k8VNgQmwoWt3KoIKoA.png',
+    questionImage: '/images/sYA0k8VNgQmwoWt3KoIKoA.png',
     options: ['supination', 'circumduction', 'pronation', 'rotation', 'adduction']
   },
   {
@@ -393,7 +393,7 @@ export const questions: Question[] = [
     questionText: 'Which of the following labeled panels in the figure shows hyperextension?',
     answerText: 'C',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/sYA0k8VNgQmwoWt3KoIKoA.png',
+    questionImage: '/images/sYA0k8VNgQmwoWt3KoIKoA.png',
     options: ['C', 'E', 'F', 'G', 'I']
   },
   {
@@ -401,7 +401,7 @@ export const questions: Question[] = [
     questionText: 'Which of the following labeled panels in the figure shows flexion?',
     answerText: 'C',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/sYA0k8VNgQmwoWt3KoIKoA.png',
+    questionImage: '/images/sYA0k8VNgQmwoWt3KoIKoA.png',
     options: ['E', 'F', 'C', 'G', 'H']
   },
   {
@@ -409,7 +409,7 @@ export const questions: Question[] = [
     questionText: 'Which of the following labeled panels in the figure shows extension?',
     answerText: 'D',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/sYA0k8VNgQmwoWt3KoIKoA.png',
+    questionImage: '/images/sYA0k8VNgQmwoWt3KoIKoA.png',
     options: ['E', 'D', 'F', 'G', 'I']
   },
   {
@@ -417,7 +417,7 @@ export const questions: Question[] = [
     questionText: 'Which two panels in the figure show a movement of a bone away from the midline of the body?',
     answerText: 'B and F',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/fWdWjYaZkbKUyc5pjTAuoQ.png',
+    questionImage: '/images/fWdWjYaZkbKUyc5pjTAuoQ.png',
     options: ['A and B', 'B and D', 'D and E', 'F and A', 'B and F']
   },
   {
@@ -425,7 +425,7 @@ export const questions: Question[] = [
     questionText: 'Which diagram shows a movement of a distal end of a body part in a circle, in a continuous sequence?',
     answerText: 'C',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/fWdWjYaZkbKUyc5pjTAuoQ.png',
+    questionImage: '/images/fWdWjYaZkbKUyc5pjTAuoQ.png',
     options: ['A', 'B', 'C', 'D', 'F']
   },
   {
@@ -433,7 +433,7 @@ export const questions: Question[] = [
     questionText: 'Which panel in the figure shows an example of the movement termed elevation?',
     answerText: 'A',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/f9K7.Ku618aYOVHSYmTI7A.png',
+    questionImage: '/images/f9K7.Ku618aYOVHSYmTI7A.png',
     options: ['A', 'B', 'E', 'F', 'G']
   },
   {
@@ -441,7 +441,7 @@ export const questions: Question[] = [
     questionText: 'Which panel in the figure shows an example of the movement termed inversion?',
     answerText: 'E',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/f9K7.Ku618aYOVHSYmTI7A.png',
+    questionImage: '/images/f9K7.Ku618aYOVHSYmTI7A.png',
     options: ['B', 'D', 'E', 'F', 'G']
   },
   {
@@ -449,7 +449,7 @@ export const questions: Question[] = [
     questionText: 'Which panel in the figure shows an example of the movement termed retraction?',
     answerText: 'D',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/f9K7.Ku618aYOVHSYmTI7A.png',
+    questionImage: '/images/f9K7.Ku618aYOVHSYmTI7A.png',
     options: ['A', 'B', 'C', 'D', 'I']
   },
   {
@@ -457,7 +457,7 @@ export const questions: Question[] = [
     questionText: 'Which panel in the figure shows an example of the movement termed supination?',
     answerText: 'H',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/f9K7.Ku618aYOVHSYmTI7A.png',
+    questionImage: '/images/f9K7.Ku618aYOVHSYmTI7A.png',
     options: ['E', 'F', 'G', 'H', 'I']
   },
   {
@@ -465,7 +465,7 @@ export const questions: Question[] = [
     questionText: 'Which panel in the figure shows an example of the movement termed opposition?',
     answerText: 'I',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/f9K7.Ku618aYOVHSYmTI7A.png',
+    questionImage: '/images/f9K7.Ku618aYOVHSYmTI7A.png',
     options: ['E', 'F', 'G', 'H', 'I']
   },
   {
@@ -473,7 +473,7 @@ export const questions: Question[] = [
     questionText: 'The line is pointing to the _____ ligament. (Variant 1)',
     answerText: 'anterior cruciate',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/MEaKvxq09lBHujj3Wj9H.Q.png',
+    questionImage: '/images/MEaKvxq09lBHujj3Wj9H.Q.png',
     options: ['fibular collateral', 'posterior cruciate', 'oblique popliteal', 'anterior cruciate']
   },
   {
@@ -481,7 +481,7 @@ export const questions: Question[] = [
     questionText: 'The line is pointing to the _____.',
     answerText: 'lateral meniscus',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/gLQi8rAoROgo00QPH1KOwQ.png',
+    questionImage: '/images/gLQi8rAoROgo00QPH1KOwQ.png',
     options: ['lateral meniscus', 'medial meniscus', 'anterior cruciate ligament', 'posterior cruciate ligament']
   },
   {
@@ -489,7 +489,7 @@ export const questions: Question[] = [
     questionText: 'The line is pointing to the _____ ligament. (Variant 2)',
     answerText: 'coracohumeral',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/b3zsCWNsBxz0Y-3hFwntGA.png',
+    questionImage: '/images/b3zsCWNsBxz0Y-3hFwntGA.png',
     options: ['coracoacromial', 'acromioclavicular', 'glenohumeral', 'coracohumeral']
   },
   {
@@ -497,7 +497,7 @@ export const questions: Question[] = [
     questionText: 'The line is pointing to the _____ ligaments.',
     answerText: 'glenohumeral',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/c7o8PSjSkvE-TUElfZe.8w.png',
+    questionImage: '/images/c7o8PSjSkvE-TUElfZe.8w.png',
     options: ['coracoacromial', 'acromioclavicular', 'glenohumeral', 'coracohumeral']
   },
   {
@@ -505,7 +505,7 @@ export const questions: Question[] = [
     questionText: 'In the above diagram of a suture joint, where is the spongy bone?',
     answerText: 'B',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/3yWNBpIndZflrmMkMabl2g.png',
+    questionImage: '/images/3yWNBpIndZflrmMkMabl2g.png',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -513,7 +513,7 @@ export const questions: Question[] = [
     questionText: 'Which type of joint permits this type of movement?',
     answerText: 'Synovial',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/7kLvHgTS5Xpr61P2iRBZyA.jpg',
+    questionImage: '/images/7kLvHgTS5Xpr61P2iRBZyA.jpg',
     options: ['Synovial', 'Cartilaginous', 'Fibrous']
   },
   {
@@ -521,7 +521,7 @@ export const questions: Question[] = [
     questionText: 'Which of the following shows a movement only seen in the intervertebral joints?',
     answerText: 'G',
     category: 'Chapter 9: Joints',
-    questionImage: 'https://o.quizlet.com/VhvTeG8d4aRUDBZMKBxrJA.jpg',
+    questionImage: '/images/VhvTeG8d4aRUDBZMKBxrJA.jpg',
     options: ['A', 'B', 'C', 'D', 'E', 'F', 'G']
   }
 ];

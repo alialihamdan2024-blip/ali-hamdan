@@ -4,6 +4,7 @@ import { Flashcards } from './components/Flashcards';
 import Quiz from './components/Quiz';
 import QuestionList from './components/QuestionList';
 import InteractiveAtlas from './components/InteractiveAtlas';
+import QuestionBuilder from './components/QuestionBuilder';
 import MobileNavigation from './components/MobileNavigation';
 import ImageZoomModal from './components/ImageZoomModal';
 import { AppMode, Question } from './types';
@@ -28,6 +29,7 @@ const App: React.FC = () => {
 
   const [isHeaderVisible, setIsHeaderVisible] = useState(true);
   const [zoomedImage, setZoomedImage] = useState<string | null>(null);
+  const [editingId, setEditingId] = useState<string | null>(null);
   const [serverQuestions, setServerQuestions] = useState<Question[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
@@ -95,6 +97,22 @@ const App: React.FC = () => {
   const handleClearMistakes = React.useCallback(() => {
       setMistakesVault([]);
   }, []);
+
+  const handleEditQuestion = (id: string) => {
+    setEditingId(id);
+    setCurrentMode(AppMode.STUDIO);
+  };
+
+  const handleSaveQuestion = (q: Question) => {
+    setUserVault(prev => {
+      const exists = prev.find(item => item.id === q.id);
+      if (exists) {
+        return prev.map(item => item.id === q.id ? q : item);
+      }
+      return [q, ...prev];
+    });
+    setEditingId(null);
+  };
 
   // --- ULTIMATE 2.0 DATA ENGINE ---
   const allQuestions = useMemo(() => {
@@ -173,7 +191,7 @@ const App: React.FC = () => {
   }
 
   return (
-    <div className="h-[100dvh] w-full flex flex-col font-sans text-slate-900 overflow-hidden bg-slate-50/50">
+    <div className="min-h-[100dvh] w-full flex flex-col font-sans text-slate-900 bg-slate-50/50">
       {isHeaderVisible && (
         <Header 
             currentMode={currentMode} 
@@ -182,8 +200,8 @@ const App: React.FC = () => {
         />
       )}
       
-      <main className={`flex-1 relative overflow-hidden flex flex-col w-full mx-auto transition-all duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] ${isHeaderVisible ? 'pt-0 md:pt-4 md:pb-6 max-w-[1400px] px-0 md:px-6' : 'max-w-full'}`}>
-        <div className={`w-full h-full md:rounded-[2.5rem] overflow-hidden shadow-none md:shadow-2xl md:border border-white/80 bg-white md:bg-white/80 relative z-10 transition-all duration-700 flex flex-col ${!isHeaderVisible ? 'rounded-none border-none bg-white' : ''}`}>
+      <main className={`flex-1 relative flex flex-col w-full mx-auto transition-all duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] ${isHeaderVisible ? 'pt-0 md:pt-4 md:pb-6 max-w-[1400px] px-0 md:px-6' : 'max-w-full'}`}>
+        <div className={`w-full h-full md:rounded-[2.5rem] shadow-none md:shadow-2xl md:border border-white/80 bg-white md:bg-white/80 relative z-10 transition-all duration-700 flex flex-col ${!isHeaderVisible ? 'rounded-none border-none bg-white' : ''}`}>
             
             {/* FLASHCARDS */}
             <div className={`w-full h-full pb-20 md:pb-0 flex-1 flex-col animate-fade-in ${currentMode === AppMode.FLASHCARDS ? 'flex' : 'hidden'}`}>
@@ -194,6 +212,7 @@ const App: React.FC = () => {
                     onToggleMistake={handleToggleMistake}
                     onClearMistakes={handleClearMistakes}
                     isActive={currentMode === AppMode.FLASHCARDS}
+                    onEdit={handleEditQuestion}
                 />
             </div>
             
@@ -227,6 +246,7 @@ const App: React.FC = () => {
                   mistakes={mistakesVault}
                   onToggleMistake={handleToggleMistake}
                   onClearMistakes={handleClearMistakes}
+                  onEdit={handleEditQuestion}
                 />
                 {userVault.length > 0 && (
                     <div className="flex justify-center p-8 md:p-12 pb-32">
@@ -235,6 +255,17 @@ const App: React.FC = () => {
                     </button>
                     </div>
                 )}
+            </div>
+
+            {/* STUDIO */}
+            <div className={`w-full h-full overflow-y-auto pb-32 md:pb-0 flex-1 flex-col animate-fade-in ${currentMode === AppMode.STUDIO ? 'flex' : 'hidden'}`}>
+                <QuestionBuilder 
+                    allQuestions={allQuestions}
+                    editingId={editingId}
+                    onSave={handleSaveQuestion}
+                    onCancel={() => { setEditingId(null); setCurrentMode(AppMode.LIST); }}
+                    existingCategories={Array.from(new Set(allQuestions.map(q => q.category)))}
+                />
             </div>
         </div>
       </main>

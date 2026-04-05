@@ -68,14 +68,6 @@ export const questions: Question[] = [
     options: ['A', 'B', 'C', 'D']
   },
   {
-    id: 'ch6-029',
-    questionText: 'In the diagram, in what areas are osteoprogenitor cells located?',
-    answerText: 'E and D',
-    category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/yFXT1w2hEozpINqJtehIA.jpg',
-    options: ['E and D', 'A and B', 'C', 'D only', 'E only']
-  },
-  {
     id: 'ch6-030',
     questionText: 'In the diagram, what bone is considered the strongest?',
     answerText: 'C',

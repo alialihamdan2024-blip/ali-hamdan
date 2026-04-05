@@ -364,14 +364,6 @@ export const questions: Question[] = [
 
   // --- HUMERUS CORRECTIONS (Text Only for mismatched diagrams) ---
   {
-    id: 'ch8-d-007',
-    questionText: 'Identify the structure indicated by arrow number 1: (Variant 1)',
-    answerText: 'head of humerus',
-    category: 'Chapter 8: The Skeletal System: The Appendicular Skeleton',
-    questionImage: 'https://o.quizlet.com/tuGVXzbyVQ3nbBu4aMnecA.png',
-    options: ['head of humerus', 'anatomical neck', 'surgical neck', 'greater tubercle']
-  },
-  {
     id: 'ch8-new-001',
     questionText: 'Identify the Greater Tubercle. (Variant 1)',
     answerText: 'Lateral proximal projection',
@@ -396,15 +388,6 @@ export const questions: Question[] = [
     options: ['Groove between tubercles', 'Groove on posterior shaft', 'Depression for olecranon', 'Neck of humerus']
   },
 
-  // Image: https://o.quizlet.com/rg87NhVIFkENHia11N-pdg.png (Humerus Distal)
-  {
-    id: 'ch8-d-010',
-    questionText: 'Identify the structure indicated by arrow number 1: (Variant 2)',
-    answerText: 'trochlea',
-    category: 'Chapter 8: The Skeletal System: The Appendicular Skeleton',
-    questionImage: 'https://o.quizlet.com/rg87NhVIFkENHia11N-pdg.png',
-    options: ['trochlea', 'capitulum', 'medial epicondyle', 'lateral epicondyle']
-  },
   {
     id: 'ch8-new-004',
     questionText: 'Identify the Capitulum.',
@@ -1144,36 +1127,12 @@ export const questions: Question[] = [
     options: ['spine', 'acromion', 'supraspinous fossa', 'infraspinous fossa']
   },
   {
-    id: 'ch8-d-007b',
-    questionText: 'Identify the structure indicated by arrow number 1: (Variant 4)',
-    answerText: 'head of humerus',
-    category: 'Chapter 8: The Skeletal System: The Appendicular Skeleton',
-    questionImage: 'https://o.quizlet.com/tuGVXzbyVQ3nbBu4aMnecA.png',
-    options: ['head of humerus', 'anatomical neck', 'surgical neck', 'greater tubercle']
-  },
-  {
     id: 'ch8-d-008',
     questionText: 'Identify the Olecranon Fossa.',
     answerText: 'Deep posterior depression',
     category: 'Chapter 8: The Skeletal System: The Appendicular Skeleton',
     // Image removed due to label ambiguity
     options: ['Deep posterior depression', 'Anterior depression', 'Proximal groove', 'Lateral projection']
-  },
-  {
-    id: 'ch8-d-009',
-    questionText: 'Identify the structure indicated by arrow number 3: (Variant 1)',
-    answerText: 'deltoid tuberosity',
-    category: 'Chapter 8: The Skeletal System: The Appendicular Skeleton',
-    questionImage: 'https://o.quizlet.com/tuGVXzbyVQ3nbBu4aMnecA.png',
-    options: ['deltoid tuberosity', 'radial groove', 'lesser tubercle', 'greater tubercle']
-  },
-  {
-    id: 'ch8-d-010b',
-    questionText: 'Identify the structure indicated by arrow number 1: (Variant 5)',
-    answerText: 'trochlea',
-    category: 'Chapter 8: The Skeletal System: The Appendicular Skeleton',
-    questionImage: 'https://o.quizlet.com/rg87NhVIFkENHia11N-pdg.png',
-    options: ['trochlea', 'capitulum', 'medial epicondyle', 'lateral epicondyle']
   },
   {
     id: 'ch8-d-011',

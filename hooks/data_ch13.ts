@@ -276,7 +276,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where is the denticulate ligament?',
     answerText: 'D',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/29XgYHjv7chqQ86Jk3lS-w.jpg',
+    questionImage: '/images/29XgYHjv7chqQ86Jk3lS-w.jpg',
     options: ['D', 'E', 'F', 'G', 'H']
   },
   {
@@ -284,7 +284,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where is the subarachnoid space?',
     answerText: 'E',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/29XgYHjv7chqQ86Jk3lS-w.jpg',
+    questionImage: '/images/29XgYHjv7chqQ86Jk3lS-w.jpg',
     options: ['D', 'E', 'F', 'G', 'H']
   },
   {
@@ -292,7 +292,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where is the subdural space?',
     answerText: 'F',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/29XgYHjv7chqQ86Jk3lS-w.jpg',
+    questionImage: '/images/29XgYHjv7chqQ86Jk3lS-w.jpg',
     options: ['E', 'F', 'G', 'H', 'I']
   },
   {
@@ -300,7 +300,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where is the pia mater?',
     answerText: 'G',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/29XgYHjv7chqQ86Jk3lS-w.jpg',
+    questionImage: '/images/29XgYHjv7chqQ86Jk3lS-w.jpg',
     options: ['F', 'G', 'H', 'I', 'D']
   },
   {
@@ -308,7 +308,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where is the arachnoid mater?',
     answerText: 'H',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/29XgYHjv7chqQ86Jk3lS-w.jpg',
+    questionImage: '/images/29XgYHjv7chqQ86Jk3lS-w.jpg',
     options: ['G', 'H', 'I', 'F', 'E']
   },
   {
@@ -316,7 +316,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where is the outermost of the meninges (Dura mater)?',
     answerText: 'I',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/29XgYHjv7chqQ86Jk3lS-w.jpg',
+    questionImage: '/images/29XgYHjv7chqQ86Jk3lS-w.jpg',
     options: ['G', 'H', 'I', 'E', 'D']
   },
   {
@@ -324,7 +324,7 @@ export const questions: Question[] = [
     questionText: 'Where is cerebral spinal fluid found in the following figure?',
     answerText: 'A',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/.e.0Tt8aOMt0ZKzjPxm4eg.jpg',
+    questionImage: '/images/.e.0Tt8aOMt0ZKzjPxm4eg.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -332,7 +332,7 @@ export const questions: Question[] = [
     questionText: 'Where is the structure that carries sensory information?',
     answerText: 'B',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/.e.0Tt8aOMt0ZKzjPxm4eg.jpg',
+    questionImage: '/images/.e.0Tt8aOMt0ZKzjPxm4eg.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -340,7 +340,7 @@ export const questions: Question[] = [
     questionText: 'Where is the structure that carries motor information?',
     answerText: 'C',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/.e.0Tt8aOMt0ZKzjPxm4eg.jpg',
+    questionImage: '/images/.e.0Tt8aOMt0ZKzjPxm4eg.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -348,7 +348,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where is the epidural space?',
     answerText: 'F',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/.e.0Tt8aOMt0ZKzjPxm4eg.jpg',
+    questionImage: '/images/.e.0Tt8aOMt0ZKzjPxm4eg.jpg',
     options: ['E', 'F', 'G', 'H', 'I']
   },
   {
@@ -356,7 +356,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where is the posterior ramus?',
     answerText: 'G',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/.e.0Tt8aOMt0ZKzjPxm4eg.jpg',
+    questionImage: '/images/.e.0Tt8aOMt0ZKzjPxm4eg.jpg',
     options: ['E', 'F', 'G', 'H', 'I']
   },
   {
@@ -364,7 +364,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where is the anterior root?',
     answerText: 'C',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/.e.0Tt8aOMt0ZKzjPxm4eg.jpg',
+    questionImage: '/images/.e.0Tt8aOMt0ZKzjPxm4eg.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -372,7 +372,7 @@ export const questions: Question[] = [
     questionText: 'Where is the posterior median sulcus?',
     answerText: 'A',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/IrbyI4R5biHBZt1rwNDdhQ.jpg',
+    questionImage: '/images/IrbyI4R5biHBZt1rwNDdhQ.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -380,7 +380,7 @@ export const questions: Question[] = [
     questionText: 'Where is the lateral white column?',
     answerText: 'D',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/IrbyI4R5biHBZt1rwNDdhQ.jpg',
+    questionImage: '/images/IrbyI4R5biHBZt1rwNDdhQ.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -388,7 +388,7 @@ export const questions: Question[] = [
     questionText: 'Where is the anterior gray horn?',
     answerText: 'H',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/IrbyI4R5biHBZt1rwNDdhQ.jpg',
+    questionImage: '/images/IrbyI4R5biHBZt1rwNDdhQ.jpg',
     options: ['F', 'G', 'H', 'I', 'A']
   },
   {
@@ -396,7 +396,7 @@ export const questions: Question[] = [
     questionText: 'Where is the anterior white column?',
     answerText: 'I',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/IrbyI4R5biHBZt1rwNDdhQ.jpg',
+    questionImage: '/images/IrbyI4R5biHBZt1rwNDdhQ.jpg',
     options: ['G', 'H', 'I', 'A', 'B']
   },
   {
@@ -404,7 +404,7 @@ export const questions: Question[] = [
     questionText: 'Which portion of the following figure contains somatic and autonomic sensory nuclei?',
     answerText: 'C',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/IrbyI4R5biHBZt1rwNDdhQ.jpg',
+    questionImage: '/images/IrbyI4R5biHBZt1rwNDdhQ.jpg',
     options: ['B', 'C', 'D', 'H', 'I']
   },
   {
@@ -412,7 +412,7 @@ export const questions: Question[] = [
     questionText: 'Which portion of the following figure contains the cell bodies of somatic motor neurons and motor nuclei?',
     answerText: 'H',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/IrbyI4R5biHBZt1rwNDdhQ.jpg',
+    questionImage: '/images/IrbyI4R5biHBZt1rwNDdhQ.jpg',
     options: ['F', 'G', 'H', 'I', 'C']
   },
   {
@@ -420,7 +420,7 @@ export const questions: Question[] = [
     questionText: 'Which portion of the following figure is present only in the thoracic, upper lumbar and sacral segments of the spinal cord?',
     answerText: 'F',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/IrbyI4R5biHBZt1rwNDdhQ.jpg',
+    questionImage: '/images/IrbyI4R5biHBZt1rwNDdhQ.jpg',
     options: ['E', 'F', 'G', 'H', 'I']
   },
   {
@@ -428,7 +428,7 @@ export const questions: Question[] = [
     questionText: 'In this diagram, where is the space that contains a buoyant liquid to form a hydraulic cushion that absorbs shock?',
     answerText: 'E',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/toGpR6wzmpDydMZpwp2kbA.png',
+    questionImage: '/images/toGpR6wzmpDydMZpwp2kbA.png',
     options: ['E', 'F', 'G', 'H', 'I']
   },
   {
@@ -436,7 +436,7 @@ export const questions: Question[] = [
     questionText: 'In this diagram, where is the structure located between the subdural and subarachnoid space?',
     answerText: 'H',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/toGpR6wzmpDydMZpwp2kbA.png',
+    questionImage: '/images/toGpR6wzmpDydMZpwp2kbA.png',
     options: ['E', 'F', 'G', 'H', 'I']
   },
   {
@@ -444,7 +444,7 @@ export const questions: Question[] = [
     questionText: 'In this diagram, where is the structure that adheres to the spinal cord and brain?',
     answerText: 'G',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/toGpR6wzmpDydMZpwp2kbA.png',
+    questionImage: '/images/toGpR6wzmpDydMZpwp2kbA.png',
     options: ['E', 'F', 'G', 'H', 'I']
   },
   {
@@ -452,7 +452,7 @@ export const questions: Question[] = [
     questionText: 'In this diagram, which layer is the thickest protective covering?',
     answerText: 'I',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/toGpR6wzmpDydMZpwp2kbA.png',
+    questionImage: '/images/toGpR6wzmpDydMZpwp2kbA.png',
     options: ['E', 'F', 'G', 'H', 'I']
   },
   {
@@ -460,7 +460,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures contains both sensory and motor axons? (Select best answer)',
     answerText: 'G and H',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/Ywovo1nJHaaW4chExCFX7g.png',
+    questionImage: '/images/Ywovo1nJHaaW4chExCFX7g.png',
     options: ['D', 'B', 'C', 'G and H']
   },
   {
@@ -468,7 +468,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures, on the image above, allows doctors to safely introduce antibiotics or anesthetics and measure CSF pressure?',
     answerText: 'A',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/Ywovo1nJHaaW4chExCFX7g.png',
+    questionImage: '/images/Ywovo1nJHaaW4chExCFX7g.png',
     options: ['A', 'E', 'D', 'H']
   },
   {
@@ -476,7 +476,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled structures, on the image above, would receive injections to cause loss of sensation to control pain in childbirth?',
     answerText: 'F',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/Ywovo1nJHaaW4chExCFX7g.png',
+    questionImage: '/images/Ywovo1nJHaaW4chExCFX7g.png',
     options: ['B', 'C', 'F', 'G', 'H']
   },
   {
@@ -484,7 +484,7 @@ export const questions: Question[] = [
     questionText: 'If you had a rash on the anterior surface of your trunk, what labeled structure, on the image above, would serve the muscles and skin of that area?',
     answerText: 'H',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/Ywovo1nJHaaW4chExCFX7g.png',
+    questionImage: '/images/Ywovo1nJHaaW4chExCFX7g.png',
     options: ['B', 'C', 'G', 'H', 'F']
   },
   {
@@ -492,7 +492,7 @@ export const questions: Question[] = [
     questionText: 'In this diagram where are tracts located?',
     answerText: 'B, C, D, E, I',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/ggvdULGLHuuxlHck4mYy6w.png',
+    questionImage: '/images/ggvdULGLHuuxlHck4mYy6w.png',
     options: ['A', 'B, C, D, E, I', 'F', 'H']
   },
   {
@@ -500,7 +500,7 @@ export const questions: Question[] = [
     questionText: 'In this diagram above which area is continuous with the 4th ventricle of the brain?',
     answerText: 'G',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/ggvdULGLHuuxlHck4mYy6w.png',
+    questionImage: '/images/ggvdULGLHuuxlHck4mYy6w.png',
     options: ['A', 'B', 'G', 'J', 'I']
   },
   {
@@ -508,7 +508,7 @@ export const questions: Question[] = [
     questionText: 'In this diagram above where would somatic motor nuclei be located?',
     answerText: 'H',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/ggvdULGLHuuxlHck4mYy6w.png',
+    questionImage: '/images/ggvdULGLHuuxlHck4mYy6w.png',
     options: ['B', 'C', 'E', 'F', 'H']
   },
   {
@@ -516,7 +516,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram which structure contains nerve roots that arise from the lumbar, sacral, and coccygeal region of the spinal cord?',
     answerText: 'G',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/9Eca0s68NP904xgE9OOmjw.png',
+    questionImage: '/images/9Eca0s68NP904xgE9OOmjw.png',
     options: ['C', 'D', 'E', 'F', 'G']
   },
   {
@@ -524,7 +524,7 @@ export const questions: Question[] = [
     questionText: 'A gymnast has damaged their hip flexor muscles. The nerve that innervates these muscles arise from which group of spinal nerves in this diagram?',
     answerText: 'F',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/9Eca0s68NP904xgE9OOmjw.png',
+    questionImage: '/images/9Eca0s68NP904xgE9OOmjw.png',
     options: ['A', 'C', 'F', 'H', 'I']
   },
   {
@@ -532,7 +532,7 @@ export const questions: Question[] = [
     questionText: 'In this diagram above which structure is the conus medullaris?',
     answerText: 'E',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/9Eca0s68NP904xgE9OOmjw.png',
+    questionImage: '/images/9Eca0s68NP904xgE9OOmjw.png',
     options: ['E', 'F', 'G', 'H', 'I']
   },
   {
@@ -540,7 +540,7 @@ export const questions: Question[] = [
     questionText: 'Christopher Reeve, a famous actor and competitive equestrian, suffered fractures to the top two vertebra and could not breathe without the help of a respirator. Which of the nerves in this diagram were likely damaged?',
     answerText: 'A',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/JlUYCJkxUBaP2tFJlS-5Eg.png',
+    questionImage: '/images/JlUYCJkxUBaP2tFJlS-5Eg.png',
     options: ['A', 'C', 'D', 'E', 'G']
   },
   {
@@ -548,7 +548,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #1 in the diagram.',
     answerText: 'Lateral cord',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Lateral cord', 'Medial cord', 'Posterior cord', 'Superior trunk']
   },
   {
@@ -556,7 +556,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #2 in the diagram.',
     answerText: 'Musculocutaneous nerve',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Musculocutaneous nerve', 'Axillary nerve', 'Median nerve', 'Radial nerve']
   },
   {
@@ -564,7 +564,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #3 in the diagram.',
     answerText: 'Lateral head',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Lateral head', 'Medial head', 'Lateral cord', 'Medial cord']
   },
   {
@@ -572,7 +572,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #4 in the diagram.',
     answerText: 'Axillary nerve',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Axillary nerve', 'Radial nerve', 'Ulnar nerve', 'Musculocutaneous nerve']
   },
   {
@@ -580,7 +580,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #5 in the diagram.',
     answerText: 'Median nerve',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Median nerve', 'Ulnar nerve', 'Radial nerve', 'Axillary nerve']
   },
   {
@@ -588,7 +588,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #6 in the diagram.',
     answerText: 'Radial nerve',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Radial nerve', 'Axillary nerve', 'Median nerve', 'Ulnar nerve']
   },
   {
@@ -596,7 +596,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #7 in the diagram.',
     answerText: 'Medial head',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Medial head', 'Lateral head', 'Medial cord', 'Lateral cord']
   },
   {
@@ -604,7 +604,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #8 in the diagram.',
     answerText: 'Ulnar nerve',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Ulnar nerve', 'Median nerve', 'Radial nerve', 'Musculocutaneous nerve']
   },
   {
@@ -612,7 +612,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #9 in the diagram.',
     answerText: 'Medial cord',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Medial cord', 'Lateral cord', 'Posterior cord', 'Inferior trunk']
   },
   {
@@ -620,7 +620,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #10 in the diagram.',
     answerText: 'Posterior cord',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Posterior cord', 'Lateral cord', 'Medial cord', 'Middle trunk']
   },
   {
@@ -628,7 +628,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #11 in the diagram.',
     answerText: 'Superior trunk',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Superior trunk', 'Middle trunk', 'Inferior trunk', 'Lateral cord']
   },
   {
@@ -636,7 +636,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #12 in the diagram.',
     answerText: 'Middle trunk',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Middle trunk', 'Superior trunk', 'Inferior trunk', 'Posterior cord']
   },
   {
@@ -644,7 +644,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #13 in the diagram.',
     answerText: 'Inferior trunk',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Inferior trunk', 'Middle trunk', 'Superior trunk', 'Medial cord']
   },
   {
@@ -652,7 +652,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled #14 in the diagram.',
     answerText: 'Long thoracic nerve',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/hwOesfZVAS8Dw7TeFfXAGw.jpg',
+    questionImage: '/images/hwOesfZVAS8Dw7TeFfXAGw.jpg',
     options: ['Long thoracic nerve', 'Dorsal scapular nerve', 'Suprascapular nerve', 'Subscapular nerve']
   },
   // --- Additional Image Utilization Questions ---
@@ -661,7 +661,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled B in the diagram (Meningeal Layer).',
     answerText: 'Dura mater',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/Ywovo1nJHaaW4chExCFX7g.png',
+    questionImage: '/images/Ywovo1nJHaaW4chExCFX7g.png',
     options: ['Dura mater', 'Arachnoid mater', 'Pia mater', 'Epidural space']
   },
   {
@@ -669,7 +669,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled C in the diagram (Meningeal Layer).',
     answerText: 'Arachnoid mater',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/Ywovo1nJHaaW4chExCFX7g.png',
+    questionImage: '/images/Ywovo1nJHaaW4chExCFX7g.png',
     options: ['Arachnoid mater', 'Dura mater', 'Pia mater', 'Subarachnoid space']
   },
   {
@@ -677,7 +677,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled D in the diagram (Meningeal Layer).',
     answerText: 'Pia mater',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/Ywovo1nJHaaW4chExCFX7g.png',
+    questionImage: '/images/Ywovo1nJHaaW4chExCFX7g.png',
     options: ['Pia mater', 'Arachnoid mater', 'Dura mater', 'Denticulate ligament']
   },
   {
@@ -685,7 +685,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled A in the diagram (Spinal Cord Feature).',
     answerText: 'Cervical enlargement',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/9Eca0s68NP904xgE9OOmjw.png',
+    questionImage: '/images/9Eca0s68NP904xgE9OOmjw.png',
     options: ['Cervical enlargement', 'Lumbar enlargement', 'Conus medullaris', 'Cauda equina']
   },
   {
@@ -693,7 +693,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled C in the diagram (Spinal Cord Feature).',
     answerText: 'Lumbar enlargement',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/9Eca0s68NP904xgE9OOmjw.png',
+    questionImage: '/images/9Eca0s68NP904xgE9OOmjw.png',
     options: ['Lumbar enlargement', 'Cervical enlargement', 'Conus medullaris', 'Filum terminale']
   },
   {
@@ -701,7 +701,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled B in the diagram (Nerve Plexus).',
     answerText: 'Brachial plexus',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/JlUYCJkxUBaP2tFJlS-5Eg.png',
+    questionImage: '/images/JlUYCJkxUBaP2tFJlS-5Eg.png',
     options: ['Brachial plexus', 'Cervical plexus', 'Lumbar plexus', 'Sacral plexus']
   },
   {
@@ -709,7 +709,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled D in the diagram (Nerve Plexus).',
     answerText: 'Lumbar plexus',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/JlUYCJkxUBaP2tFJlS-5Eg.png',
+    questionImage: '/images/JlUYCJkxUBaP2tFJlS-5Eg.png',
     options: ['Lumbar plexus', 'Sacral plexus', 'Brachial plexus', 'Cervical plexus']
   },
   {
@@ -717,7 +717,7 @@ export const questions: Question[] = [
     questionText: 'Identify the structure labeled E in the diagram (Nerve Plexus).',
     answerText: 'Sacral plexus',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/JlUYCJkxUBaP2tFJlS-5Eg.png',
+    questionImage: '/images/JlUYCJkxUBaP2tFJlS-5Eg.png',
     options: ['Sacral plexus', 'Lumbar plexus', 'Brachial plexus', 'Coccygeal plexus']
   },
   // --- Dermatome & Clinical Case Questions ---
@@ -726,7 +726,7 @@ export const questions: Question[] = [
     questionText: 'A child was in a diving accident. When brought into the emergency room, the doctor used sharp and blunt objects to determine if there was any sensation on the bottom of the foot and the lateral aspect of their palm. The child stated they could not feel the stimulus in either area. What nerves were most likely damaged?',
     answerText: 'S1 and C6',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/03Ttebv03k.bj26UnbzkMw.png',
+    questionImage: '/images/03Ttebv03k.bj26UnbzkMw.png',
     options: ['L3 and C8', 'L5 and C6', 'S2 and T1', 'C7 and L4', 'S1 and C6']
   },
   {
@@ -734,7 +734,7 @@ export const questions: Question[] = [
     questionText: 'Based on the dermatome map shown, which spinal nerve supplies sensation to the thumb and lateral aspect of the forearm?',
     answerText: 'C6',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/03Ttebv03k.bj26UnbzkMw.png',
+    questionImage: '/images/03Ttebv03k.bj26UnbzkMw.png',
     options: ['C5', 'C6', 'C7', 'C8']
   },
   {
@@ -742,7 +742,7 @@ export const questions: Question[] = [
     questionText: 'Which dermatome level is located at the level of the umbilicus (belly button)?',
     answerText: 'T10',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/03Ttebv03k.bj26UnbzkMw.png',
+    questionImage: '/images/03Ttebv03k.bj26UnbzkMw.png',
     options: ['T4', 'T10', 'L1', 'S1']
   },
   {
@@ -750,7 +750,7 @@ export const questions: Question[] = [
     questionText: 'Which dermatome level corresponds to the nipple line?',
     answerText: 'T4',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/03Ttebv03k.bj26UnbzkMw.png',
+    questionImage: '/images/03Ttebv03k.bj26UnbzkMw.png',
     options: ['C4', 'T4', 'T10', 'L1']
   },
   {
@@ -758,7 +758,7 @@ export const questions: Question[] = [
     questionText: 'Which spinal nerve root is primarily responsible for sensation in the big toe (hallux) and medial aspect of the foot?',
     answerText: 'L5',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/03Ttebv03k.bj26UnbzkMw.png',
+    questionImage: '/images/03Ttebv03k.bj26UnbzkMw.png',
     options: ['L4', 'L5', 'S1', 'S2']
   },
   {
@@ -766,7 +766,7 @@ export const questions: Question[] = [
     questionText: 'Which spinal nerve supplies sensation to the little finger and medial aspect of the hand?',
     answerText: 'C8',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/03Ttebv03k.bj26UnbzkMw.png',
+    questionImage: '/images/03Ttebv03k.bj26UnbzkMw.png',
     options: ['C6', 'C7', 'C8', 'T1']
   },
   {
@@ -774,7 +774,7 @@ export const questions: Question[] = [
     questionText: 'Which dermatome covers the inguinal region (groin)?',
     answerText: 'L1',
     category: 'Chapter 13: Spinal Cord and Spinal Nerves',
-    questionImage: 'https://o.quizlet.com/03Ttebv03k.bj26UnbzkMw.png',
+    questionImage: '/images/03Ttebv03k.bj26UnbzkMw.png',
     options: ['T10', 'T12', 'L1', 'S1']
   }
 ];

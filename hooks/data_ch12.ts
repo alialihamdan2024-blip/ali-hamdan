@@ -353,7 +353,7 @@ export const questions: Question[] = [
     questionText: 'Which of the neurons is considered to be a bipolar neuron?',
     answerText: 'B',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/Ge66ndwYsGyhEshNF66Drw.jpg',
+    questionImage: '/images/Ge66ndwYsGyhEshNF66Drw.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -361,7 +361,7 @@ export const questions: Question[] = [
     questionText: 'This structure electrically insulates the axon of a neuron to increase the speed of nerve impulse conduction.',
     answerText: 'E',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/-ze1JbzCjvivvYeSC5Jzbw.jpg',
+    questionImage: '/images/-ze1JbzCjvivvYeSC5Jzbw.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -369,7 +369,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where is a node of Ranvier?',
     answerText: 'B',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/-ze1JbzCjvivvYeSC5Jzbw.jpg',
+    questionImage: '/images/-ze1JbzCjvivvYeSC5Jzbw.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -377,7 +377,7 @@ export const questions: Question[] = [
     questionText: 'Which of the diagrams in the figure represents a ligand-gated channel?',
     answerText: 'B',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/t9yo8RPhi.RGn3lafYuL8A.jpg',
+    questionImage: '/images/t9yo8RPhi.RGn3lafYuL8A.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -385,7 +385,7 @@ export const questions: Question[] = [
     questionText: 'Which of these types of channels is involved in leaking sodium and potassium ions across the membrane in order to establish the resting potential of a cell?',
     answerText: 'A',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/t9yo8RPhi.RGn3lafYuL8A.jpg',
+    questionImage: '/images/t9yo8RPhi.RGn3lafYuL8A.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -393,7 +393,7 @@ export const questions: Question[] = [
     questionText: 'Which of the channels shown in the figure opens and closes randomly?',
     answerText: 'A',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/t9yo8RPhi.RGn3lafYuL8A.jpg',
+    questionImage: '/images/t9yo8RPhi.RGn3lafYuL8A.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -401,7 +401,7 @@ export const questions: Question[] = [
     questionText: 'Which diagram represents a reverberating circuit?',
     answerText: 'C',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/ydOSe9rfnIdW6FIUT4BRlg.jpg',
+    questionImage: '/images/ydOSe9rfnIdW6FIUT4BRlg.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -409,7 +409,7 @@ export const questions: Question[] = [
     questionText: 'Which type of circuit is used to lengthen the output signal in physiological processes like regulation of the breathing pattern?',
     answerText: 'C',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/ydOSe9rfnIdW6FIUT4BRlg.jpg',
+    questionImage: '/images/ydOSe9rfnIdW6FIUT4BRlg.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -417,7 +417,7 @@ export const questions: Question[] = [
     questionText: 'Which type of circuit is involved in solving mathematical problems?',
     answerText: 'D',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/ydOSe9rfnIdW6FIUT4BRlg.jpg',
+    questionImage: '/images/ydOSe9rfnIdW6FIUT4BRlg.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -425,7 +425,7 @@ export const questions: Question[] = [
     questionText: 'What is the structural classification of the neuron labeled B?',
     answerText: 'bipolar neuron',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/Wg3mtASV4Ad2MqSN-femdw.jpg',
+    questionImage: '/images/Wg3mtASV4Ad2MqSN-femdw.jpg',
     options: ['bipolar neuron', 'multipolar neuron', 'unipolar neuron', 'nonpolar neuron', 'pseudounipolar']
   },
   {
@@ -433,7 +433,7 @@ export const questions: Question[] = [
     questionText: 'Which of the following structures is labeled A in the diagram?',
     answerText: 'dendrites',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/SZokOfbx0eUA30xK-eJ1Kw.png',
+    questionImage: '/images/SZokOfbx0eUA30xK-eJ1Kw.png',
     options: ['axon terminal', 'trigger zone', 'cell body', 'peripheral process', 'dendrites']
   },
   {
@@ -441,7 +441,7 @@ export const questions: Question[] = [
     questionText: 'Which of the following structures is labeled B in the diagram?',
     answerText: 'peripheral process',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/SZokOfbx0eUA30xK-eJ1Kw.png',
+    questionImage: '/images/SZokOfbx0eUA30xK-eJ1Kw.png',
     options: ['axon terminal', 'trigger zone', 'cell body', 'peripheral process', 'dendrites']
   },
   {
@@ -449,7 +449,7 @@ export const questions: Question[] = [
     questionText: 'Which of the following structures is labeled C in the diagram?',
     answerText: 'cell body',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/SZokOfbx0eUA30xK-eJ1Kw.png',
+    questionImage: '/images/SZokOfbx0eUA30xK-eJ1Kw.png',
     options: ['axon terminal', 'trigger zone', 'cell body', 'peripheral process', 'dendrites']
   },
   {
@@ -457,7 +457,7 @@ export const questions: Question[] = [
     questionText: 'Which of the following structures is labeled D in the diagram?',
     answerText: 'trigger zone',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/SZokOfbx0eUA30xK-eJ1Kw.png',
+    questionImage: '/images/SZokOfbx0eUA30xK-eJ1Kw.png',
     options: ['axon terminal', 'trigger zone', 'cell body', 'peripheral process', 'dendrites']
   },
   {
@@ -465,7 +465,7 @@ export const questions: Question[] = [
     questionText: 'Which of the following structures is labeled E in the diagram?',
     answerText: 'axon terminal',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/SZokOfbx0eUA30xK-eJ1Kw.png',
+    questionImage: '/images/SZokOfbx0eUA30xK-eJ1Kw.png',
     options: ['axon terminal', 'trigger zone', 'cell body', 'axon', 'dendrites']
   },
   {
@@ -494,7 +494,7 @@ export const questions: Question[] = [
     questionText: 'What specific type of unipolar neuron is shown in the diagram labeled B?',
     answerText: 'Type I cutaneous mechanoreceptor (Merkel disc)',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/wBPy0HBdr28tVB3ji6LmGQ.jpg',
+    questionImage: '/images/wBPy0HBdr28tVB3ji6LmGQ.jpg',
     options: ['Type I cutaneous mechanoreceptor (Merkel disc)', 'Corpuscle of touch (Meissner corpuscle)', 'Lamellated (Pacinian) corpuscle', 'nociceptor', 'Purkinje cell']
   },
   {
@@ -502,7 +502,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled cells in the figure is NOT a neuroglial cell?',
     answerText: 'C',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/ls6mtTm7dAEJTQKTFi1ePQ.jpg',
+    questionImage: '/images/ls6mtTm7dAEJTQKTFi1ePQ.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -510,7 +510,7 @@ export const questions: Question[] = [
     questionText: 'Which of the labeled cells in the diagram is a neuroglial cell that forms and maintains the myelin sheath around CNS axons?',
     answerText: 'A',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/ls6mtTm7dAEJTQKTFi1ePQ.jpg',
+    questionImage: '/images/ls6mtTm7dAEJTQKTFi1ePQ.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -637,7 +637,7 @@ export const questions: Question[] = [
     questionText: 'Study the below picture. Which NERVE potential travels the longer distance in a typical sensation?',
     answerText: 'nerve action potential',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/yM5NScucLG.0EGmk2wKtkQ.png',
+    questionImage: '/images/yM5NScucLG.0EGmk2wKtkQ.png',
     options: ['graded potential', 'nerve action potential', 'both go approximately the distance']
   },
   {
@@ -659,7 +659,7 @@ export const questions: Question[] = [
     questionText: 'Carefully study the below diagram. Which statement best describes the direction of signal transmission?',
     answerText: 'signals go only from the presynaptic neuron to postsynaptic neuron',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/85UWXmdYibzNl22H2brElg.jpg',
+    questionImage: '/images/85UWXmdYibzNl22H2brElg.jpg',
     options: ['signals go only from the postsynaptic neuron to presynaptic neuron', 'signals go only from the presynaptic neuron to postsynaptic neuron', 'signals way travel in both directions across a synapse', 'none of these choices']
   },
   {
@@ -667,7 +667,7 @@ export const questions: Question[] = [
     questionText: 'Carefully study the below diagram. The situation in the diagram is most likely:',
     answerText: 'spatial summation',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/675ytcvQhJbQ2DRKCByPGA.jpg',
+    questionImage: '/images/675ytcvQhJbQ2DRKCByPGA.jpg',
     options: ['spatial summation', 'temporal summation', 'neither of these choices']
   },
   {
@@ -682,7 +682,7 @@ export const questions: Question[] = [
     questionText: 'This part of a neuron contains the nucleus and cytoplasm of the Schwann\'s cell that has formed a myelin sheath around the axon.',
     answerText: 'E',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/a2H6x3Qh9vuHLCwmhp-ivw_b.jpg',
+    questionImage: '/images/a2H6x3Qh9vuHLCwmhp-ivw_b.jpg',
     options: ['C', 'D', 'E', 'F', 'G']
   },
   {
@@ -690,7 +690,7 @@ export const questions: Question[] = [
     questionText: 'Which part of the diagram is considered nerve fiber?',
     answerText: 'Both A and D',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/a2H6x3Qh9vuHLCwmhp-ivw_b.jpg',
+    questionImage: '/images/a2H6x3Qh9vuHLCwmhp-ivw_b.jpg',
     options: ['A', 'D', 'I', 'Both A and D', 'All of these choices make up the nerve fiber']
   },
   {
@@ -698,7 +698,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where are axon terminals?',
     answerText: 'H',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/a2H6x3Qh9vuHLCwmhp-ivw_b.jpg',
+    questionImage: '/images/a2H6x3Qh9vuHLCwmhp-ivw_b.jpg',
     options: ['F', 'G', 'H', 'I', 'None of these choices']
   },
   {
@@ -706,7 +706,7 @@ export const questions: Question[] = [
     questionText: 'This part of the neurons contains the nissl bodies.',
     answerText: 'B',
     category: 'Chapter 12: Nervous Tissue',
-    questionImage: 'https://o.quizlet.com/a2H6x3Qh9vuHLCwmhp-ivw_b.jpg',
+    questionImage: '/images/a2H6x3Qh9vuHLCwmhp-ivw_b.jpg',
     options: ['A', 'B', 'C', 'D', 'both A and B']
   }
 ];

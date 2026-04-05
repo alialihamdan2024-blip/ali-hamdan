@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { HeartPulse, Layers, Brain, BookText, Map as MapIcon } from 'lucide-react';
+import { HeartPulse, Layers, Brain, BookText, Map as MapIcon, Edit3 } from 'lucide-react';
 import { AppMode } from '../types';
 
 interface HeaderProps {
@@ -15,6 +15,7 @@ const Header: React.FC<HeaderProps> = ({ currentMode, onModeChange, mistakesCoun
     { mode: AppMode.ATLAS, label: 'Atlas', icon: MapIcon },
     { mode: AppMode.QUIZ, label: 'Exam', icon: Brain },
     { mode: AppMode.LIST, label: 'Index', icon: BookText },
+    { mode: AppMode.STUDIO, label: 'Studio', icon: Edit3 },
   ];
 
   return (

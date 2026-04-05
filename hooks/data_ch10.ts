@@ -227,7 +227,7 @@ const baseQuestions: Question[] = [
     questionText: 'Identify the structure labeled "1" in a typical muscle cell diagram.',
     answerText: 'Mitochondria',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/44KF4eS2z0KrIwg8RUCYvg.jpg',
+    questionImage: '/images/44KF4eS2z0KrIwg8RUCYvg.jpg',
     options: ['Mitochondria', 'Myofibril', 'Sarcolemma', 'Nucleus', 'Sarcoplasmic Reticulum']
   },
   {
@@ -235,7 +235,7 @@ const baseQuestions: Question[] = [
     questionText: 'Which of the following are found in the structure labeled "3" (Myofibril)?',
     answerText: 'All of the answers are correct.',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/44KF4eS2z0KrIwg8RUCYvg.jpg',
+    questionImage: '/images/44KF4eS2z0KrIwg8RUCYvg.jpg',
     options: ['actin', 'myosin', 'titin', 'tropomyosin', 'All of the answers are correct.']
   },
   {
@@ -243,7 +243,7 @@ const baseQuestions: Question[] = [
     questionText: 'What physiological process occurs in the structure labeled "7" (T-tubule)?',
     answerText: 'conduction of the action potential into the cell interior',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/44KF4eS2z0KrIwg8RUCYvg.jpg',
+    questionImage: '/images/44KF4eS2z0KrIwg8RUCYvg.jpg',
     options: ['conduction of the action potential into the cell interior', 'release of neurotransmitter', 'activity of acetylcholinesterase', 'release of calcium ions', 'opening of sodium channels']
   },
   {
@@ -251,7 +251,7 @@ const baseQuestions: Question[] = [
     questionText: 'What is released from the structure labeled "9" (Terminal Cisternae)?',
     answerText: 'calcium ions',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/44KF4eS2z0KrIwg8RUCYvg.jpg',
+    questionImage: '/images/44KF4eS2z0KrIwg8RUCYvg.jpg',
     options: ['calcium ions', 'sarcoplasm', 'acetylcholine', 'protein', 'acetylcholinesterase']
   },
   {
@@ -259,7 +259,7 @@ const baseQuestions: Question[] = [
     questionText: 'Where would calcium ions be predominately found?',
     answerText: '9',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/44KF4eS2z0KrIwg8RUCYvg.jpg',
+    questionImage: '/images/44KF4eS2z0KrIwg8RUCYvg.jpg',
     options: ['9', '1', '3', '2', '5']
   },
   {
@@ -267,7 +267,7 @@ const baseQuestions: Question[] = [
     questionText: 'Which structure has pumps to remove calcium ions from the sarcoplasm to produce relaxation?',
     answerText: '6',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/44KF4eS2z0KrIwg8RUCYvg.jpg',
+    questionImage: '/images/44KF4eS2z0KrIwg8RUCYvg.jpg',
     options: ['6', '7', '1', '3', '2']
   },
   {
@@ -275,7 +275,7 @@ const baseQuestions: Question[] = [
     questionText: 'Where are the myosin molecules located?',
     answerText: '5',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/44KF4eS2z0KrIwg8RUCYvg.jpg',
+    questionImage: '/images/44KF4eS2z0KrIwg8RUCYvg.jpg',
     options: ['5', '3', 'Z line', 'Mitochondria', 'Sarcolemma']
   },
   {
@@ -283,7 +283,7 @@ const baseQuestions: Question[] = [
     questionText: 'Which structure contains the motor end plate?',
     answerText: '2',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/44KF4eS2z0KrIwg8RUCYvg.jpg',
+    questionImage: '/images/44KF4eS2z0KrIwg8RUCYvg.jpg',
     options: ['2', '1', '3', '5', '8']
   },
   {
@@ -291,7 +291,7 @@ const baseQuestions: Question[] = [
     questionText: 'Identify the structure where ATP is produced.',
     answerText: '1',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/44KF4eS2z0KrIwg8RUCYvg.jpg',
+    questionImage: '/images/44KF4eS2z0KrIwg8RUCYvg.jpg',
     options: ['1', '2', '6', '7', '3']
   },
   {
@@ -299,7 +299,7 @@ const baseQuestions: Question[] = [
     questionText: 'Identify the structure(s) where ATP is consumed?',
     answerText: '3 and 6',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/44KF4eS2z0KrIwg8RUCYvg.jpg',
+    questionImage: '/images/44KF4eS2z0KrIwg8RUCYvg.jpg',
     options: ['3 and 6', '3 only', '6 only', '7 only', '3 and 7']
   },
   // Continuing with text questions
@@ -711,7 +711,7 @@ const baseQuestions: Question[] = [
     questionText: 'On the diagram, where is the deep fascia?',
     answerText: 'B',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/FV4bGH5M07nTeViM9GbgcQ.jpg',
+    questionImage: '/images/FV4bGH5M07nTeViM9GbgcQ.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -719,7 +719,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, what all comes together as one broad sheet of connective tissue to make the tendon?',
     answerText: 'All of the above',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/FV4bGH5M07nTeViM9GbgcQ.jpg',
+    questionImage: '/images/FV4bGH5M07nTeViM9GbgcQ.jpg',
     options: ['All of the above', 'Only Epimysium', 'Only Perimysium', 'Only Endomysium']
   },
   {
@@ -727,7 +727,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, what is made from dense irregular connective tissue?',
     answerText: 'None of the above',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/FV4bGH5M07nTeViM9GbgcQ.jpg',
+    questionImage: '/images/FV4bGH5M07nTeViM9GbgcQ.jpg',
     options: ['A', 'B', 'C', 'None of the above']
   },
   {
@@ -735,7 +735,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where is the muscle fiber located?',
     answerText: 'F',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/FV4bGH5M07nTeViM9GbgcQ.jpg',
+    questionImage: '/images/FV4bGH5M07nTeViM9GbgcQ.jpg',
     options: ['D', 'E', 'F', 'C']
   },
   {
@@ -743,7 +743,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, what is made from dense regular connective tissue?',
     answerText: 'A',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/FV4bGH5M07nTeViM9GbgcQ.jpg',
+    questionImage: '/images/FV4bGH5M07nTeViM9GbgcQ.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -751,7 +751,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where is the epimysium located?',
     answerText: 'D',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/oDPvJ0ImqQFzllzVk3Htig.jpg',
+    questionImage: '/images/oDPvJ0ImqQFzllzVk3Htig.jpg',
     options: ['D', 'C', 'E', 'F']
   },
   {
@@ -759,7 +759,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, which parts make up the neuromuscular junction?',
     answerText: 'B, E',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/oDPvJ0ImqQFzllzVk3Htig.jpg',
+    questionImage: '/images/oDPvJ0ImqQFzllzVk3Htig.jpg',
     options: ['B, E', 'A, C', 'D, F', 'G, H']
   },
   {
@@ -767,7 +767,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where is the axon collateral?',
     answerText: 'C',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/oDPvJ0ImqQFzllzVk3Htig.jpg',
+    questionImage: '/images/oDPvJ0ImqQFzllzVk3Htig.jpg',
     options: ['C', 'A', 'B', 'D']
   },
   {
@@ -775,7 +775,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where is the axon terminal?',
     answerText: 'A',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/oDPvJ0ImqQFzllzVk3Htig.jpg',
+    questionImage: '/images/oDPvJ0ImqQFzllzVk3Htig.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -783,7 +783,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where would you find stored Ca2+?',
     answerText: 'F',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/L2OYdzsc1gUIf1qHuK-6Gg.jpg',
+    questionImage: '/images/L2OYdzsc1gUIf1qHuK-6Gg.jpg',
     options: ['F', 'G', 'H', 'I']
   },
   {
@@ -791,7 +791,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where would you find the largest amount of glycogen?',
     answerText: 'M',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/L2OYdzsc1gUIf1qHuK-6Gg.jpg',
+    questionImage: '/images/L2OYdzsc1gUIf1qHuK-6Gg.jpg',
     options: ['M', 'A', 'B', 'C']
   },
   {
@@ -799,7 +799,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, what structure is filled with mostly interstitial fluid?',
     answerText: 'D',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/L2OYdzsc1gUIf1qHuK-6Gg.jpg',
+    questionImage: '/images/L2OYdzsc1gUIf1qHuK-6Gg.jpg',
     options: ['D', 'E', 'F', 'G']
   },
   {
@@ -807,7 +807,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where is the mitochondria?',
     answerText: 'B',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/L2OYdzsc1gUIf1qHuK-6Gg.jpg',
+    questionImage: '/images/L2OYdzsc1gUIf1qHuK-6Gg.jpg',
     options: ['B', 'A', 'C', 'D']
   },
   {
@@ -815,7 +815,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where is the endomysium?',
     answerText: 'L',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/L2OYdzsc1gUIf1qHuK-6Gg.jpg',
+    questionImage: '/images/L2OYdzsc1gUIf1qHuK-6Gg.jpg',
     options: ['L', 'M', 'N', 'O']
   },
   {
@@ -823,7 +823,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where is the thick filament?',
     answerText: 'H',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/L2OYdzsc1gUIf1qHuK-6Gg.jpg',
+    questionImage: '/images/L2OYdzsc1gUIf1qHuK-6Gg.jpg',
     options: ['H', 'I', 'J', 'K']
   },
   {
@@ -831,7 +831,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, what is the basic functional unit of a myofibril?',
     answerText: 'F',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/-md9pRF8PP.5GXrkQ82rHQ.jpg',
+    questionImage: '/images/-md9pRF8PP.5GXrkQ82rHQ.jpg',
     options: ['F', 'G', 'H', 'I']
   },
   {
@@ -839,7 +839,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, which is only a structural protein?',
     answerText: 'E',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/-md9pRF8PP.5GXrkQ82rHQ.jpg',
+    questionImage: '/images/-md9pRF8PP.5GXrkQ82rHQ.jpg',
     options: ['E', 'A', 'B', 'C']
   },
   {
@@ -847,7 +847,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, which are regulatory proteins?',
     answerText: 'None of the above',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/-md9pRF8PP.5GXrkQ82rHQ.jpg',
+    questionImage: '/images/-md9pRF8PP.5GXrkQ82rHQ.jpg',
     options: ['A', 'B', 'C', 'None of the above']
   },
   {
@@ -855,7 +855,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, which are motor proteins?',
     answerText: 'C',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/-md9pRF8PP.5GXrkQ82rHQ.jpg',
+    questionImage: '/images/-md9pRF8PP.5GXrkQ82rHQ.jpg',
     options: ['C', 'A', 'B', 'D']
   },
   {
@@ -863,7 +863,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where is the A band?',
     answerText: 'J',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/-md9pRF8PP.5GXrkQ82rHQ.jpg',
+    questionImage: '/images/-md9pRF8PP.5GXrkQ82rHQ.jpg',
     options: ['J', 'I', 'H', 'G']
   },
   {
@@ -871,7 +871,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where is the I band?',
     answerText: 'G',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/-md9pRF8PP.5GXrkQ82rHQ.jpg',
+    questionImage: '/images/-md9pRF8PP.5GXrkQ82rHQ.jpg',
     options: ['G', 'F', 'E', 'D']
   },
   {
@@ -879,7 +879,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where is the M line?',
     answerText: 'D',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/-md9pRF8PP.5GXrkQ82rHQ.jpg',
+    questionImage: '/images/-md9pRF8PP.5GXrkQ82rHQ.jpg',
     options: ['D', 'C', 'B', 'A']
   },
   {
@@ -887,7 +887,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, which parts move to the center of the sarcomere (closer together) when the fiber contracts?',
     answerText: 'A',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/-md9pRF8PP.5GXrkQ82rHQ.jpg',
+    questionImage: '/images/-md9pRF8PP.5GXrkQ82rHQ.jpg',
     options: ['A', 'B', 'C', 'D']
   },
   {
@@ -895,7 +895,7 @@ const baseQuestions: Question[] = [
     questionText: 'In the diagram, where is the zone of overlap?',
     answerText: 'H',
     category: 'Chapter 10: Muscle Tissue',
-    questionImage: 'https://o.quizlet.com/-md9pRF8PP.5GXrkQ82rHQ.jpg',
+    questionImage: '/images/-md9pRF8PP.5GXrkQ82rHQ.jpg',
     options: ['H', 'G', 'F', 'E']
   }
 ];

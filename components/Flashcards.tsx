@@ -8,7 +8,7 @@ import {
 } from 'lucide-react';
 import { useSpeech } from '../hooks/useSpeech';
 import FilterModal, { FilterOption } from './FilterModal';
-import { cleanImageUrl } from '../utils';
+import { cleanImageUrl, sanitizeHtml } from '../utils';
 
 interface FlashcardsProps {
   data: Question[];
@@ -315,7 +315,7 @@ export const Flashcards: React.FC<FlashcardsProps> = ({
                     
                     <h2 
                         className={`font-bold leading-tight text-slate-800 break-words w-full text-center font-display ${getTextSizeClass(frontDisplayText)}`} 
-                        dangerouslySetInnerHTML={{ __html: frontDisplayText }} 
+                        dangerouslySetInnerHTML={{ __html: sanitizeHtml(frontDisplayText) }} 
                     />
                  </div>
                </div>
@@ -364,7 +364,7 @@ export const Flashcards: React.FC<FlashcardsProps> = ({
                     
                     <p 
                         className={`font-bold leading-relaxed text-emerald-400 break-words w-full text-center font-display ${getTextSizeClass(backDisplayText)}`} 
-                        dangerouslySetInnerHTML={{ __html: backDisplayText }} 
+                        dangerouslySetInnerHTML={{ __html: sanitizeHtml(backDisplayText) }} 
                     />
                  </div>
 

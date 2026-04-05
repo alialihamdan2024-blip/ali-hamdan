@@ -83,7 +83,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where is the fulcrum?',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/nuYiEkos8k-B4MFp10PAJw.jpg',
+    questionImage: '/images/nuYiEkos8k-B4MFp10PAJw.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -91,7 +91,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram, where is the effort?',
     answerText: 'A',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/ZOcSFe6fJWmi155aMK9G3Q.jpg',
+    questionImage: '/images/ZOcSFe6fJWmi155aMK9G3Q.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -99,7 +99,7 @@ export const questions: Question[] = [
     questionText: 'Which one represents a second-class lever?',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/Hu4SxrSbnXThiE16pvwKyQ.png',
+    questionImage: '/images/Hu4SxrSbnXThiE16pvwKyQ.png',
     options: ['A', 'B', 'C', 'D', 'E']
   },
 
@@ -109,7 +109,7 @@ export const questions: Question[] = [
     questionText: 'Where is the latissimus dorsi?',
     answerText: 'A',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -117,7 +117,7 @@ export const questions: Question[] = [
     questionText: 'Where is the rectus femoris?',
     answerText: 'C',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -125,7 +125,7 @@ export const questions: Question[] = [
     questionText: 'Where is the deltoid?',
     answerText: 'F',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['C', 'D', 'F', 'G', 'I']
   },
   {
@@ -133,7 +133,7 @@ export const questions: Question[] = [
     questionText: 'Where is the masseter?',
     answerText: 'E',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['A', 'B', 'G', 'I', 'E']
   },
   {
@@ -141,7 +141,7 @@ export const questions: Question[] = [
     questionText: 'Where is the gastrocnemius?',
     answerText: 'D',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KOqQpwJtU9NthFGVDxmnIQ.png',
+    questionImage: '/images/KOqQpwJtU9NthFGVDxmnIQ.png',
     options: ['C', 'D', 'G', 'H', 'I']
   },
   {
@@ -149,7 +149,7 @@ export const questions: Question[] = [
     questionText: 'Where is the soleus?',
     answerText: 'E',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/y1UkYhRkObPYFUjd.524OQ.png',
+    questionImage: '/images/y1UkYhRkObPYFUjd.524OQ.png',
     options: ['A', 'C', 'E', 'D', 'H']
   },
   {
@@ -157,7 +157,7 @@ export const questions: Question[] = [
     questionText: 'Where is the external oblique?',
     answerText: 'G',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/y1UkYhRkObPYFUjd.524OQ.png',
+    questionImage: '/images/y1UkYhRkObPYFUjd.524OQ.png',
     options: ['D', 'G', 'H', 'I', 'E']
   },
 
@@ -167,7 +167,7 @@ export const questions: Question[] = [
     questionText: 'Where is the masseter in this view?',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['A', 'B', 'F', 'G', 'H']
   },
   {
@@ -175,7 +175,7 @@ export const questions: Question[] = [
     questionText: 'Where is the orbicularis oculi?',
     answerText: 'D',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['D', 'E', 'F', 'G', 'H']
   },
   {
@@ -183,7 +183,7 @@ export const questions: Question[] = [
     questionText: 'Where is the buccinator?',
     answerText: 'I',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['F', 'G', 'I', 'J', 'K']
   },
   {
@@ -191,7 +191,7 @@ export const questions: Question[] = [
     questionText: 'Where is the mentalis?',
     answerText: 'N',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['J', 'K', 'L', 'M', 'N']
   },
   {
@@ -199,7 +199,7 @@ export const questions: Question[] = [
     questionText: 'Where is the depressor anguli oris?',
     answerText: 'L',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/d4YbwcX-eAdgjORNH9belA.png',
+    questionImage: '/images/d4YbwcX-eAdgjORNH9belA.png',
     options: ['K', 'L', 'M', 'N', 'E']
   },
   {
@@ -207,7 +207,7 @@ export const questions: Question[] = [
     questionText: 'Where is the levator palpebrae superioris?',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/6aqKs0iI-1bYp1nSZ5sppw.png',
+    questionImage: '/images/6aqKs0iI-1bYp1nSZ5sppw.png',
     options: ['B', 'D', 'E', 'F', 'G']
   },
   {
@@ -215,7 +215,7 @@ export const questions: Question[] = [
     questionText: 'Where is the lateral rectus?',
     answerText: 'E',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/6aqKs0iI-1bYp1nSZ5sppw.png',
+    questionImage: '/images/6aqKs0iI-1bYp1nSZ5sppw.png',
     options: ['C', 'D', 'E', 'F', 'G']
   },
   {
@@ -223,7 +223,7 @@ export const questions: Question[] = [
     questionText: 'Where is the splenius capitis?',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/BjfqA-mcYlZhHme79CotMQ.png',
+    questionImage: '/images/BjfqA-mcYlZhHme79CotMQ.png',
     options: ['A', 'B', 'C', 'K', 'L']
   },
   {
@@ -231,7 +231,7 @@ export const questions: Question[] = [
     questionText: 'Where is the levator scapulae?',
     answerText: 'I',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/BjfqA-mcYlZhHme79CotMQ.png',
+    questionImage: '/images/BjfqA-mcYlZhHme79CotMQ.png',
     options: ['H', 'F', 'I', 'L', 'A']
   },
 
@@ -241,7 +241,7 @@ export const questions: Question[] = [
     questionText: 'Where is the serratus anterior?',
     answerText: 'C',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/t6sjwptX67DflXhggiwI.g.png',
+    questionImage: '/images/t6sjwptX67DflXhggiwI.g.png',
     options: ['A', 'B', 'C', 'D', 'G']
   },
   {
@@ -249,7 +249,7 @@ export const questions: Question[] = [
     questionText: 'Where is the external oblique in this torso view?',
     answerText: 'B',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/t6sjwptX67DflXhggiwI.g.png',
+    questionImage: '/images/t6sjwptX67DflXhggiwI.g.png',
     options: ['D', 'E', 'F', 'H', 'B']
   },
   {
@@ -257,7 +257,7 @@ export const questions: Question[] = [
     questionText: 'Where is the transverse abdominus?',
     answerText: 'H',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/t6sjwptX67DflXhggiwI.g.png',
+    questionImage: '/images/t6sjwptX67DflXhggiwI.g.png',
     options: ['D', 'E', 'F', 'H', 'I']
   },
   {
@@ -265,7 +265,7 @@ export const questions: Question[] = [
     questionText: 'Where is the infraspinatus?',
     answerText: 'G',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/v.V7riqe0Rf4Fej3D5a-KA.png',
+    questionImage: '/images/v.V7riqe0Rf4Fej3D5a-KA.png',
     options: ['E', 'F', 'G', 'D', 'H']
   },
   {
@@ -273,7 +273,7 @@ export const questions: Question[] = [
     questionText: 'Where is the rhomboid major?',
     answerText: 'I',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/v.V7riqe0Rf4Fej3D5a-KA.png',
+    questionImage: '/images/v.V7riqe0Rf4Fej3D5a-KA.png',
     options: ['E', 'F', 'G', 'H', 'I']
   },
 
@@ -283,7 +283,7 @@ export const questions: Question[] = [
     questionText: 'Where is the brachioradialis?',
     answerText: 'C',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/H6xxxhMbpYTwPLR0ttyLZw.png',
+    questionImage: '/images/H6xxxhMbpYTwPLR0ttyLZw.png',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -291,7 +291,7 @@ export const questions: Question[] = [
     questionText: 'Where is the flexor carpi radialis?',
     answerText: 'E',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/H6xxxhMbpYTwPLR0ttyLZw.png',
+    questionImage: '/images/H6xxxhMbpYTwPLR0ttyLZw.png',
     options: ['D', 'E', 'F', 'G', 'H']
   },
   {
@@ -299,7 +299,7 @@ export const questions: Question[] = [
     questionText: 'Where is the abductor digiti minimi?',
     answerText: 'E',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/vaogt5J9vVCYiI5gkouUnw.png',
+    questionImage: '/images/vaogt5J9vVCYiI5gkouUnw.png',
     options: ['B', 'C', 'E', 'F', 'G']
   },
 
@@ -309,7 +309,7 @@ export const questions: Question[] = [
     questionText: 'Where is the iliacus?',
     answerText: 'A',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/Sx0TFkCHMajWNaXEOcQI.A.png',
+    questionImage: '/images/Sx0TFkCHMajWNaXEOcQI.A.png',
     options: ['A', 'B', 'C', 'D', 'H']
   },
   {
@@ -317,7 +317,7 @@ export const questions: Question[] = [
     questionText: 'Where is the sartorius?',
     answerText: 'C',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/Sx0TFkCHMajWNaXEOcQI.A.png',
+    questionImage: '/images/Sx0TFkCHMajWNaXEOcQI.A.png',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -325,7 +325,7 @@ export const questions: Question[] = [
     questionText: 'Where is the vastus intermedius?',
     answerText: 'F',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/Sx0TFkCHMajWNaXEOcQI.A.png',
+    questionImage: '/images/Sx0TFkCHMajWNaXEOcQI.A.png',
     options: ['D', 'E', 'F', 'G', 'H']
   },
   {
@@ -333,7 +333,7 @@ export const questions: Question[] = [
     questionText: 'Where is the adductor longus?',
     answerText: 'H',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/Sx0TFkCHMajWNaXEOcQI.A.png',
+    questionImage: '/images/Sx0TFkCHMajWNaXEOcQI.A.png',
     options: ['H', 'I', 'J', 'K', 'L']
   },
   {
@@ -341,7 +341,7 @@ export const questions: Question[] = [
     questionText: 'Where is the gracilis?',
     answerText: 'I',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/Sx0TFkCHMajWNaXEOcQI.A.png',
+    questionImage: '/images/Sx0TFkCHMajWNaXEOcQI.A.png',
     options: ['H', 'I', 'J', 'K', 'L']
   },
   {
@@ -349,7 +349,7 @@ export const questions: Question[] = [
     questionText: 'Which three muscles make up the hamstring?',
     answerText: 'L, M, N',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/P6.PP9VCuTsX7bKqCSmk-g.png',
+    questionImage: '/images/P6.PP9VCuTsX7bKqCSmk-g.png',
     options: ['L, M, N', 'E, F, G', 'H, I, J', 'I, J, K', 'A, B, C']
   },
   {
@@ -357,7 +357,7 @@ export const questions: Question[] = [
     questionText: 'Where is the semitendinosus?',
     answerText: 'L',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/P6.PP9VCuTsX7bKqCSmk-g.png',
+    questionImage: '/images/P6.PP9VCuTsX7bKqCSmk-g.png',
     options: ['J', 'K', 'L', 'M', 'N']
   },
 
@@ -367,7 +367,7 @@ export const questions: Question[] = [
     questionText: 'What is the origin of the muscle labeled B?',
     answerText: 'medial wall of orbit',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KXjcMcyYyahN96j3.3cubg.png',
+    questionImage: '/images/KXjcMcyYyahN96j3.3cubg.png',
     options: ['upper lip', 'mandible', 'medial wall of orbit', 'skin at the corner of the mouth', 'skin of the eyebrow']
   },
   {
@@ -375,7 +375,7 @@ export const questions: Question[] = [
     questionText: 'What is the origin of the muscle labeled D?',
     answerText: 'fascia over deltoid and pectoralis muscles',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KXjcMcyYyahN96j3.3cubg.png',
+    questionImage: '/images/KXjcMcyYyahN96j3.3cubg.png',
     options: ['fascia over parotid gland', 'fascia over deltoid and pectoralis muscles', 'skin of the lower lip', 'epicranial aponeurosis', 'mandible']
   },
   {
@@ -383,7 +383,7 @@ export const questions: Question[] = [
     questionText: 'What is the action of the muscle labeled C?',
     answerText: 'elevates the mandible (as in closing the mouth)',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KXjcMcyYyahN96j3.3cubg.png',
+    questionImage: '/images/KXjcMcyYyahN96j3.3cubg.png',
     options: ['laterally flex and rotate head', 'extends head', 'depresses tongue', 'protracts mandible (as in opening the mouth)', 'elevates the mandible (as in closing the mouth)']
   },
   {
@@ -391,7 +391,7 @@ export const questions: Question[] = [
     questionText: 'What is the insertion of the muscle labeled E?',
     answerText: 'mastoid process of temporal bone',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KXjcMcyYyahN96j3.3cubg.png',
+    questionImage: '/images/KXjcMcyYyahN96j3.3cubg.png',
     options: ['mastoid process of temporal bone', 'sternum and clavicle', 'occipital bone', 'clavicle and spine of the scapula', 'coracoid process of the scapula']
   },
   {
@@ -399,7 +399,7 @@ export const questions: Question[] = [
     questionText: 'What is the action of the muscle labeled G?',
     answerText: 'adducts and medially rotates arm at shoulder joint',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KXjcMcyYyahN96j3.3cubg.png',
+    questionImage: '/images/KXjcMcyYyahN96j3.3cubg.png',
     options: ['adducts and medially rotates arm at shoulder joint', 'abducting arm at shoulder joint', 'laterally rotates arm at shoulder joint', 'laterally rotates and extends arm at shoulder joint', 'extends forearm at elbow joint']
   },
   {
@@ -407,7 +407,7 @@ export const questions: Question[] = [
     questionText: 'What is the action of the muscle labeled I?',
     answerText: 'flexes the forearm at the elbow joint',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KXjcMcyYyahN96j3.3cubg.png',
+    questionImage: '/images/KXjcMcyYyahN96j3.3cubg.png',
     options: ['extends the forearm at the elbow joint', 'flexes the forearm at the elbow joint', 'pronates the forearm at the radioulnar joints', 'abduct arm at shoulder joint', 'rotates arm at shoulder joint']
   },
   {
@@ -415,7 +415,7 @@ export const questions: Question[] = [
     questionText: 'What is the insertion of the muscle labeled Q?',
     answerText: 'cartilage of the fifth to seventh rib and xiphoid process',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/KXjcMcyYyahN96j3.3cubg.png',
+    questionImage: '/images/KXjcMcyYyahN96j3.3cubg.png',
     options: ['iliac crest and linea alba', 'cartilage of the fifth to seventh rib and xiphoid process', 'ribs 5-12', 'central tendon', 'costal cartilages and adjacent portion of the inferior 6 ribs']
   },
   {
@@ -423,7 +423,7 @@ export const questions: Question[] = [
     questionText: 'What is the insertion of the muscle labeled F?',
     answerText: 'olecranon of ulna',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/xHssCxnM93N1C6vzjgGiGg.png',
+    questionImage: '/images/xHssCxnM93N1C6vzjgGiGg.png',
     options: ['ulnar tuberosity and coronoid process of ulna', 'radial tuberosity of radius and bicipital aponeurosis', 'olecranon of ulna', 'lateral border of distal end of humerus', 'lateral epicondyle of humerus']
   },
   {
@@ -431,7 +431,7 @@ export const questions: Question[] = [
     questionText: 'What is the insertion of the muscle labeled G?',
     answerText: 'deltoid tuberosity of humerus',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/xHssCxnM93N1C6vzjgGiGg.png',
+    questionImage: '/images/xHssCxnM93N1C6vzjgGiGg.png',
     options: ['greater tubercle of humerus', 'inferior angle of scapula', 'spine of the scapula', 'acromial extremity of the clavicle', 'deltoid tuberosity of humerus']
   },
   {
@@ -439,7 +439,7 @@ export const questions: Question[] = [
     questionText: 'What is the insertion of the muscle labeled D?',
     answerText: 'calcaneus by way of Achilles tendon',
     category: 'Chapter 11: The Muscular System',
-    questionImage: 'https://o.quizlet.com/xHssCxnM93N1C6vzjgGiGg.png',
+    questionImage: '/images/xHssCxnM93N1C6vzjgGiGg.png',
     options: ['lateral and medial condyles of femur and capsule of knee', 'head of fibula', 'calcaneus by way of Achilles tendon', 'anterior surface of fibula and interosseous membrane', 'distal phalanx of great toe']
   },
 

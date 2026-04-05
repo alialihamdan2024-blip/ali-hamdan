@@ -49,49 +49,49 @@ export const questions: Question[] = [
     questionText: 'Describe the Parallel fascicle arrangement.',
     answerText: 'Muscle fascicles parallel to longitudinal axis of muscle; terminate at either end in flat tendons',
     category: 'Chapter 11: The Muscular System',
-    answerImage: 'https://o.quizlet.com/3KGBddoO-kehRkBYrFaI9g.png'
+    answerImage: '/images/3KGBddoO-kehRkBYrFaI9g.png'
   },
   {
     id: 'ch11-009',
     questionText: 'Describe the Fusiform fascicle arrangement.',
     answerText: 'Muscle fascicles are nearly parallel to the longitudinal axis of the muscle; terminate in flat tendons; the muscle tapers toward the tendons.',
     category: 'Chapter 11: The Muscular System',
-    answerImage: 'https://o.quizlet.com/vW1ym8IhoCdzXASn0dqBTA.png'
+    answerImage: '/images/vW1ym8IhoCdzXASn0dqBTA.png'
   },
   {
     id: 'ch11-010',
     questionText: 'Describe the Circular fascicle arrangement.',
     answerText: 'Muscle fascicles in concentric circular arrangements form sphincter muscles that enclose an orifice (opening)',
     category: 'Chapter 11: The Muscular System',
-    answerImage: 'https://o.quizlet.com/wjH2ezZx.y.2tmYH1Hz1pw.png'
+    answerImage: '/images/wjH2ezZx.y.2tmYH1Hz1pw.png'
   },
   {
     id: 'ch11-011',
     questionText: 'Describe the Triangular fascicle arrangement.',
     answerText: 'Muscle fascicles spread over broad area converge at thick central tendon; gives muscle a triangular appearance',
     category: 'Chapter 11: The Muscular System',
-    answerImage: 'https://o.quizlet.com/gQQ9okd2m28MBa1F-QalFQ.png'
+    answerImage: '/images/gQQ9okd2m28MBa1F-QalFQ.png'
   },
   {
     id: 'ch11-012',
     questionText: 'Describe the Unipennate fascicle arrangement.',
     answerText: 'Muscle fascicles arranged on only one side of tendon',
     category: 'Chapter 11: The Muscular System',
-    answerImage: 'https://o.quizlet.com/8js7OXAP4QchhYtLm46KXQ.png'
+    answerImage: '/images/8js7OXAP4QchhYtLm46KXQ.png'
   },
   {
     id: 'ch11-013',
     questionText: 'Describe the Bipennate fascicle arrangement.',
     answerText: 'Muscle fascicles arranged on both sides of centrally positioned tendons',
     category: 'Chapter 11: The Muscular System',
-    answerImage: 'https://o.quizlet.com/BfTC4dBSBV9d3eAhhi21UA.png'
+    answerImage: '/images/BfTC4dBSBV9d3eAhhi21UA.png'
   },
   {
     id: 'ch11-014',
     questionText: 'Describe the Multipennate fascicle arrangement.',
     answerText: 'Muscle fascicles attach obliquely from many directions to several tendons',
     category: 'Chapter 11: The Muscular System',
-    answerImage: 'https://o.quizlet.com/w9BkfZSHYoZK.MgJG5yrng.png'
+    answerImage: '/images/w9BkfZSHYoZK.MgJG5yrng.png'
   },
   {
     id: 'ch11-015',

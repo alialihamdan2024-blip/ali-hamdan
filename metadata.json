@@ -2,19 +2,4 @@
   "name": "Anatomy & Physiology",
   "description": "The ultimate professional study tool for Human Anatomy & Physiology. Featuring over 1100+ questions, interactive atlas, and clinical exam simulations under the OT signature brand.",
   "requestFramePermissions": []
-}GEMINI_API_KEY=AIzaSyCZzEnVWsPB-VFE40_NnE98rmuZ1no8578
-import os
-from dotenv import load_dotenv
-import google.generativeai as genai
-
-# تحميل البيانات من ملف .env
-load_dotenv()
-api_key = os.getenv("GEMINI_API_KEY")
-
-# إعداد Gemini
-genai.configure(api_key=api_key)
-
-model = genai.GenerativeModel('gemini-1.5-flash')
-response = model.generate_content("اكتب نصيحة قصيرة لطلاب التشريح.")
-
-print(response.text)
+}

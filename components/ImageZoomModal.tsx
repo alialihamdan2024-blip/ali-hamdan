@@ -96,6 +96,7 @@ const ImageZoomModal: React.FC<ImageZoomModalProps> = ({ isOpen, imageUrl, onClo
             src={cleanImageUrl(imageUrl, 1600)} 
             alt="Zoomed Detail" 
             className="max-w-[95vw] max-h-[75vh] object-contain rounded-lg shadow-2xl"
+            referrerPolicy="no-referrer"
           />
         </div>
         

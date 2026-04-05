@@ -285,49 +285,49 @@ export const questions: Question[] = [
     questionText: 'The ascending colon and the gallbladder are considered ________ to each other',
     answerText: 'ipsilateral',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/FaO5ngQOjfHvHrz1d4.jQA.jpg'
+    questionImage: '/images/FaO5ngQOjfHvHrz1d4.jQA.jpg'
   },
   {
     id: 'ch1-214',
     questionText: 'The femoral area is _____ to the cervical area?',
     answerText: 'inferior',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/kqbG9w9eNpo8qwXmLAa20g.png'
+    questionImage: '/images/kqbG9w9eNpo8qwXmLAa20g.png'
   },
   {
     id: 'ch1-215',
     questionText: 'The calcaneal is _____ to the popliteal region?',
-    answerText: 'contralateral',
+    answerText: 'inferior',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/kqbG9w9eNpo8qwXmLAa20g.png'
+    questionImage: '/images/kqbG9w9eNpo8qwXmLAa20g.png'
   },
   {
     id: 'ch1-216',
     questionText: 'The ribs are _____ to the sternum.',
     answerText: 'lateral',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/TpkcG3AJ4CuY4c6Wo7-BKQ.png'
+    questionImage: '/images/TpkcG3AJ4CuY4c6Wo7-BKQ.png'
   },
   {
     id: 'ch1-217',
     questionText: 'The stomach is _____ to the urinary bladder.',
     answerText: 'superior',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/TpkcG3AJ4CuY4c6Wo7-BKQ.png'
+    questionImage: '/images/TpkcG3AJ4CuY4c6Wo7-BKQ.png'
   },
   {
     id: 'ch1-218',
     questionText: 'Which plane divides the body into unequal right and left halves? (See B)',
     answerText: 'parasagittal',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/fIAAIID29iQiQfUYIxLK7A.png'
+    questionImage: '/images/fIAAIID29iQiQfUYIxLK7A.png'
   },
   {
     id: 'ch1-219',
     questionText: 'Which plane would allow one to view the heart and lungs from a posterior view? (See E)',
     answerText: 'frontal / coronal',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/fIAAIID29iQiQfUYIxLK7A.png'
+    questionImage: '/images/fIAAIID29iQiQfUYIxLK7A.png'
   },
   {
     id: 'ch1-220',
@@ -388,14 +388,14 @@ export const questions: Question[] = [
     questionText: 'The section shown in (C) results from cutting through a _____ plane extending through the brain?',
     answerText: 'transverse',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/SL1ucBvgnH.RBzbAfZ2tLQ.png'
+    questionImage: '/images/SL1ucBvgnH.RBzbAfZ2tLQ.png'
   },
   {
     id: 'ch1-230',
     questionText: 'The section shown in (B) results from cutting through a _______ plane extending through the brain?',
     answerText: 'frontal',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/SL1ucBvgnH.RBzbAfZ2tLQ.png'
+    questionImage: '/images/SL1ucBvgnH.RBzbAfZ2tLQ.png'
   },
   {
     id: 'ch1-033',
@@ -486,7 +486,7 @@ export const questions: Question[] = [
     questionText: 'Which cavity contains the main control centers in the feedback cycle?',
     answerText: 'A',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/t8Edfjr1pYp55iVxyrya3A.png'
+    questionImage: '/images/t8Edfjr1pYp55iVxyrya3A.png'
   },
   {
     id: 'ch1-045',
@@ -835,28 +835,28 @@ export const questions: Question[] = [
     questionText: 'Which cavity contains the urinary bladder?',
     answerText: 'E',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/t8Edfjr1pYp55iVxyrya3A.png'
+    questionImage: '/images/t8Edfjr1pYp55iVxyrya3A.png'
   },
   {
     id: 'ch1-249',
     questionText: 'What physically separates the area labelled C from the area labeled D?',
     answerText: 'diaphragm',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/t8Edfjr1pYp55iVxyrya3A.png'
+    questionImage: '/images/t8Edfjr1pYp55iVxyrya3A.png'
   },
   {
     id: 'ch1-250',
     questionText: 'According to the diagram, an appendectomy would be performed in which region?',
     answerText: 'G',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/Fa-.M4IaAWBdceRL4jZuhQ.jpg'
+    questionImage: '/images/Fa-.M4IaAWBdceRL4jZuhQ.jpg'
   },
   {
     id: 'ch1-251',
     questionText: 'A patient has a laparoscopic cholecystectomy (gallbladder removal). Which abdominopelvic region would the doctor perform surgery?',
     answerText: 'A',
     category: 'Chapter 1: Introduction to the Human Body',
-    questionImage: 'https://o.quizlet.com/Fa-.M4IaAWBdceRL4jZuhQ.jpg'
+    questionImage: '/images/Fa-.M4IaAWBdceRL4jZuhQ.jpg'
   },
   {
     id: 'ch1-092',
@@ -1195,119 +1195,119 @@ export const questions: Question[] = [
     questionText: 'In the diagram, which organelle is responsible for autophagy and autolysis?',
     answerText: 'C',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/kiTWogxj-tUN5zbkoB50aQ.png'
+    questionImage: '/images/kiTWogxj-tUN5zbkoB50aQ.png'
   },
   {
     id: 'ch3-002',
     questionText: 'In the diagram, which organelle is used to modify, sort and transport proteins?',
     answerText: 'J',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/kiTWogxj-tUN5zbkoB50aQ.png'
+    questionImage: '/images/kiTWogxj-tUN5zbkoB50aQ.png'
   },
   {
     id: 'ch3-003',
     questionText: 'In the diagram, which organelle aids movement of the cell?',
     answerText: 'A',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/kiTWogxj-tUN5zbkoB50aQ.png'
+    questionImage: '/images/kiTWogxj-tUN5zbkoB50aQ.png'
   },
   {
     id: 'ch3-004',
     questionText: 'In the diagram, this structure directs cellular activities.',
     answerText: 'G',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/kiTWogxj-tUN5zbkoB50aQ.png'
+    questionImage: '/images/kiTWogxj-tUN5zbkoB50aQ.png'
   },
   {
     id: 'ch3-005',
     questionText: 'In the diagram, which one represents carrier-mediated facilitated diffusion?',
     answerText: 'C',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/8RIBFblGgroAq-jGmCFr9A.png'
+    questionImage: '/images/8RIBFblGgroAq-jGmCFr9A.png'
   },
   {
     id: 'ch3-006',
     questionText: 'In the diagram, which one represents a hypertonic solution',
     answerText: 'C',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/wvNNDKNAjHHkQl2PVLOp4Q.png'
+    questionImage: '/images/wvNNDKNAjHHkQl2PVLOp4Q.png'
   },
   {
     id: 'ch3-007',
     questionText: 'In the diagram, which panel shows the kinetochore of the centromeres aligning along the center of the mitotic spindle of the cell?',
     answerText: 'C',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/CpXJ69akbgGOKxZadFqhkA.png'
+    questionImage: '/images/CpXJ69akbgGOKxZadFqhkA.png'
   },
   {
     id: 'ch3-008',
     questionText: 'In the diagram, which panel shows cells that are in interphase?',
     answerText: 'A & F',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/Zpc8OY3geNm1q4v6lBcf0w.png'
+    questionImage: '/images/Zpc8OY3geNm1q4v6lBcf0w.png'
   },
   {
     id: 'ch3-009',
     questionText: 'What structural component of the membrane is labeled (E) in the diagram?',
     answerText: 'cholesterol',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/Hby2S2.Zi5T-EKvdkQzFXQ.png'
+    questionImage: '/images/Hby2S2.Zi5T-EKvdkQzFXQ.png'
   },
   {
     id: 'ch3-010',
     questionText: 'What structural components of the membrane are labeled (C) in the diagram?',
     answerText: 'integral proteins',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/Hby2S2.Zi5T-EKvdkQzFXQ.png'
+    questionImage: '/images/Hby2S2.Zi5T-EKvdkQzFXQ.png'
   },
   {
     id: 'ch3-011',
     questionText: 'What structural component of the membrane is labeled (B) in the diagram?',
     answerText: 'glycoprotein',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/VyM4g4GohoQlNclIGTmyRQ.png'
+    questionImage: '/images/VyM4g4GohoQlNclIGTmyRQ.png'
   },
   {
     id: 'ch3-012',
     questionText: 'Which of the following represents an ion channel?',
     answerText: 'A',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/yaAoUYWr6Sh3RplSlCCOtw.png'
+    questionImage: '/images/yaAoUYWr6Sh3RplSlCCOtw.png'
   },
   {
     id: 'ch3-013',
     questionText: 'Which of the following shows ligand binding at the cell surface?',
     answerText: 'C',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/NZkgRmJt0wrVwiWlFh2srA.png'
+    questionImage: '/images/NZkgRmJt0wrVwiWlFh2srA.png'
   },
   {
     id: 'ch3-014',
     questionText: 'Which of the following is the correct sequence of events in receptor-mediated endocytosis shown in the figure?',
     answerText: 'binding > vesicle formation > uncoating > fusion with endosome > recycling of receptors to plasma membrane > degradation in lysosomes',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/hs1BNziWnmI3sipzcPVjWw.png'
+    questionImage: '/images/hs1BNziWnmI3sipzcPVjWw.png'
   },
   {
     id: 'ch3-015',
     questionText: 'Which of the following is the correct sequence of events in phagocytosis shown in the figure?',
     answerText: 'pseudopods surround particle > phagosome formed > fusion of lysosome and phagosome > digestion by lysosomal enzymes > residual body formed',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/k-FFeVDiviYbPAe60uqc6A.png'
+    questionImage: '/images/k-FFeVDiviYbPAe60uqc6A.png'
   },
   {
     id: 'ch3-016',
     questionText: 'Which of the following is the correct sequence of events in bulk-phase endocytosis shown in the figure?',
     answerText: 'plasma membrane forms vesicle around extracellular droplets > vesicle formed pinches off into cytosol > fusion of lysosome and vesicle > digestion by enzymes > solutes released',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/iYCADdrmwmrhd1S0XxsEuQ.png'
+    questionImage: '/images/iYCADdrmwmrhd1S0XxsEuQ.png'
   },
   {
     id: 'ch3-017',
     questionText: 'Which of the cells in the diagram contains structural adaptations that increase surface area for absorption?',
     answerText: 'D & E',
     category: 'Chapter 3: The Cellular Level of Organization',
-    questionImage: 'https://o.quizlet.com/fHZnRvqCWWHLOKGFV7hW4w.png'
+    questionImage: '/images/fHZnRvqCWWHLOKGFV7hW4w.png'
   },
   {
     id: 'ch3-018',
@@ -2135,7 +2135,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram shown below, which cell junction uses keratin reinforce the stability of the cell?',
     answerText: 'C',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/gg8qwrrhgVrUAjfwWL1XMA.jpg',
+    questionImage: '/images/gg8qwrrhgVrUAjfwWL1XMA.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -2143,7 +2143,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram shown below, which cellular junction will prevent acidic stomach fluid from seeping into the connective tissue?',
     answerText: 'A',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/gg8qwrrhgVrUAjfwWL1XMA.jpg',
+    questionImage: '/images/gg8qwrrhgVrUAjfwWL1XMA.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -2158,7 +2158,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram shown below, where would cilia be present?',
     answerText: 'A',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/UUcPo-tmBNmht5NVV1vZng.jpg',
+    questionImage: '/images/UUcPo-tmBNmht5NVV1vZng.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -2173,7 +2173,7 @@ export const questions: Question[] = [
     questionText: 'Which of the light micrographs in the figure below can be located in salivary glands?',
     answerText: 'E & F',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/BgWxbGqBxgr2jkCbGju-AA.jpg',
+    questionImage: '/images/BgWxbGqBxgr2jkCbGju-AA.jpg',
     options: ['B', 'C', 'D', 'E & F', 'A']
   },
   {
@@ -2181,7 +2181,7 @@ export const questions: Question[] = [
     questionText: 'In the figure shown, light micrograph [___] tissue is the binding material of the body',
     answerText: 'A',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/WpTwP16VeBzRc.hmx7BxPQ.jpg',
+    questionImage: '/images/WpTwP16VeBzRc.hmx7BxPQ.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -2189,7 +2189,7 @@ export const questions: Question[] = [
     questionText: 'In the figure shown, light micrograph [___] will be located in red bone marrow and in the spleen to help with filtering',
     answerText: 'C',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/WpTwP16VeBzRc.hmx7BxPQ.jpg',
+    questionImage: '/images/WpTwP16VeBzRc.hmx7BxPQ.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -2197,7 +2197,7 @@ export const questions: Question[] = [
     questionText: 'In the figure shown, light micrograph [___] represents the strongest cartilage and lacks a perichondrium.',
     answerText: 'H',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/WpTwP16VeBzRc.hmx7BxPQ.jpg',
+    questionImage: '/images/WpTwP16VeBzRc.hmx7BxPQ.jpg',
     options: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
   },
   {
@@ -2205,7 +2205,7 @@ export const questions: Question[] = [
     questionText: 'In the figure shown, light micrograph [___] shows the tissues that attach muscle to bone and bone to bone.',
     answerText: 'D',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/WpTwP16VeBzRc.hmx7BxPQ.jpg',
+    questionImage: '/images/WpTwP16VeBzRc.hmx7BxPQ.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -2213,7 +2213,7 @@ export const questions: Question[] = [
     questionText: 'In the figure shown, light micrograph ___ shows the tissue produced in red bone marrow?',
     answerText: 'J',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/WpTwP16VeBzRc.hmx7BxPQ.jpg',
+    questionImage: '/images/WpTwP16VeBzRc.hmx7BxPQ.jpg',
     options: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
   },
   {
@@ -2221,7 +2221,7 @@ export const questions: Question[] = [
     questionText: 'In the figure shown, light micrograph ___ shows the type of tissue that contains the blood forming tissue?',
     answerText: 'I',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/WpTwP16VeBzRc.hmx7BxPQ.jpg',
+    questionImage: '/images/WpTwP16VeBzRc.hmx7BxPQ.jpg',
     options: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
   },
   {
@@ -2229,7 +2229,7 @@ export const questions: Question[] = [
     questionText: 'In the figure shown, which light micrograph shows a muscle tissue that is under involuntary control?',
     answerText: 'A and C',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/lB8Gt2jmaIXukBlcbP5xCQ.jpg',
+    questionImage: '/images/lB8Gt2jmaIXukBlcbP5xCQ.jpg',
     options: ['A only', 'B only', 'C only', 'A and B', 'A and C']
   },
   {
@@ -2237,7 +2237,7 @@ export const questions: Question[] = [
     questionText: 'In the figure shown, which light micrograph contains autorhytmic cells?',
     answerText: 'C',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/lB8Gt2jmaIXukBlcbP5xCQ.jpg',
+    questionImage: '/images/lB8Gt2jmaIXukBlcbP5xCQ.jpg',
     options: ['A', 'B', 'C']
   },
   {
@@ -2245,7 +2245,7 @@ export const questions: Question[] = [
     questionText: 'In the light micrograph, which two tissues contain gap junctions?',
     answerText: 'A and C',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/lB8Gt2jmaIXukBlcbP5xCQ.jpg',
+    questionImage: '/images/lB8Gt2jmaIXukBlcbP5xCQ.jpg',
     options: ['A', 'B', 'C', 'A and B', 'A and C']
   },
   {
@@ -2253,7 +2253,7 @@ export const questions: Question[] = [
     questionText: 'Which of the light micrographs in the figure below can be found in serous membranes?',
     answerText: 'A',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/BgWxbGqBxgr2jkCbGju-AA.jpg',
+    questionImage: '/images/BgWxbGqBxgr2jkCbGju-AA.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -2261,7 +2261,7 @@ export const questions: Question[] = [
     questionText: 'In the diagram shown below, which area would contain gap junctions, tight junctions and desmosomes?',
     answerText: 'B',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/UUcPo-tmBNmht5NVV1vZng.jpg',
+    questionImage: '/images/UUcPo-tmBNmht5NVV1vZng.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -2276,7 +2276,7 @@ export const questions: Question[] = [
     questionText: 'Which of the light micrographs in the figure below shows the type of epithelial tissue whose functions include filtration, diffusion, osmosis, and secretion in serous membranes?',
     answerText: 'A',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/5kPxRW-qpkUJP0UAcxSKfg.jpg',
+    questionImage: '/images/5kPxRW-qpkUJP0UAcxSKfg.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -2291,7 +2291,7 @@ export const questions: Question[] = [
     questionText: 'Which of the light micrographs shows epithelial tissue that forms thyroid gland and secretes hormones?',
     answerText: 'B',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/5kPxRW-qpkUJP0UAcxSKfg.jpg',
+    questionImage: '/images/5kPxRW-qpkUJP0UAcxSKfg.jpg',
     options: ['A', 'B', 'C', 'D', 'E']
   },
   {
@@ -2299,7 +2299,7 @@ export const questions: Question[] = [
     questionText: 'Which of the light micrographs in the following figure shows a type of epithelial tissue whose functions include movement of mucus over their apical surface by ciliary action?',
     answerText: '2 and 3 only',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/5kPxRW-qpkUJP0UAcxSKfg.jpg',
+    questionImage: '/images/5kPxRW-qpkUJP0UAcxSKfg.jpg',
     options: ['1 only', '2 only', '3 only', '2 and 3 only', '1, 2, 3']
   },
   {
@@ -2307,7 +2307,7 @@ export const questions: Question[] = [
     questionText: 'Which of the light micrographs in the following figure shows epithelial tissue that is multiple layers?',
     answerText: 'D, E, F, G, H',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/5kPxRW-qpkUJP0UAcxSKfg.jpg',
+    questionImage: '/images/5kPxRW-qpkUJP0UAcxSKfg.jpg',
     options: ['A', 'B', 'C', 'D, E, F, G, H']
   },
   {
@@ -2315,7 +2315,7 @@ export const questions: Question[] = [
     questionText: 'Which of the light micrographs in the following figure shows the type of epithelial tissue whose structure allows it to be stretched or distended?',
     answerText: 'H',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/5kPxRW-qpkUJP0UAcxSKfg.jpg',
+    questionImage: '/images/5kPxRW-qpkUJP0UAcxSKfg.jpg',
     options: ['A', 'D', 'E', 'G', 'H']
   },
   {
@@ -2323,7 +2323,7 @@ export const questions: Question[] = [
     questionText: 'Which of the light micrographs in the following figure shows the type of epithelial tissue that lines the inside of urinary bladder walls and the outside of the urinary bladder?',
     answerText: 'H; A',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/5kPxRW-qpkUJP0UAcxSKfg.jpg',
+    questionImage: '/images/5kPxRW-qpkUJP0UAcxSKfg.jpg',
     options: ['G; A', 'A; D', 'A; H', 'D; A', 'H; A']
   },
   {
@@ -2331,7 +2331,7 @@ export const questions: Question[] = [
     questionText: 'Which figure shows tissue found along the developing bones of the embryo?',
     answerText: 'A',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/3v0gGDylu5TxrDGxQ7IZ2w.jpg',
+    questionImage: '/images/3v0gGDylu5TxrDGxQ7IZ2w.jpg',
     options: ['A', 'B', 'C', 'D', 'E', 'F']
   },
   {
@@ -2339,7 +2339,7 @@ export const questions: Question[] = [
     questionText: 'Which figure shows collagen fibers running in a uniformed pattern?',
     answerText: 'D',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/3v0gGDylu5TxrDGxQ7IZ2w.jpg',
+    questionImage: '/images/3v0gGDylu5TxrDGxQ7IZ2w.jpg',
     options: ['B', 'C', 'D', 'E', 'F']
   },
   {
@@ -2347,7 +2347,7 @@ export const questions: Question[] = [
     questionText: 'Which figure shows tissue that is found in the trachea?',
     answerText: 'F',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/3v0gGDylu5TxrDGxQ7IZ2w.jpg',
+    questionImage: '/images/3v0gGDylu5TxrDGxQ7IZ2w.jpg',
     options: ['B', 'C', 'E', 'F', 'G']
   },
   {
@@ -2355,7 +2355,7 @@ export const questions: Question[] = [
     questionText: 'Which is a function of the tissue shown in diagram A?',
     answerText: 'heat production',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/4Q2BF2Y3L02Jlwvn1Gz9bQ.jpg',
+    questionImage: '/images/4Q2BF2Y3L02Jlwvn1Gz9bQ.jpg',
     options: ['heat production', 'pumping of blood', 'propulsion of food', 'contraction of bladder', 'conduct nerve impulses to muscle fibers']
   },
   {
@@ -2363,7 +2363,7 @@ export const questions: Question[] = [
     questionText: 'Which is a function of the tissue shown in diagram D?',
     answerText: 'conduct nerve impulses to muscle fibers',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/4Q2BF2Y3L02Jlwvn1Gz9bQ.jpg',
+    questionImage: '/images/4Q2BF2Y3L02Jlwvn1Gz9bQ.jpg',
     options: ['heat production', 'pumping of blood', 'propulsion of food', 'contraction of bladder', 'conduct nerve impulses to muscle fibers']
   },
   {
@@ -2378,7 +2378,7 @@ export const questions: Question[] = [
     questionText: 'Which of the following figures shows tissue whose functions are secretion?',
     answerText: 'A, B, C, D, E, F, G',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/5kPxRW-qpkUJP0UAcxSKfg.jpg',
+    questionImage: '/images/5kPxRW-qpkUJP0UAcxSKfg.jpg',
     options: ['A, B, C, D, E, F, G', 'H', 'None of the above']
   },
   {
@@ -2449,154 +2449,154 @@ export const questions: Question[] = [
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Simple Squamous Epithelium',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/i/IeECwCdkm1TcN4c8HBoPzA.jpg'
+    questionImage: '/images/IeECwCdkm1TcN4c8HBoPzA.jpg'
   },
   {
     id: 'ch4-093',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Simple Cuboidal Epithelium',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/OPjsLQYlUUMF2hRujZ23SQ.jpg'
+    questionImage: '/images/OPjsLQYlUUMF2hRujZ23SQ.jpg'
   },
   {
     id: 'ch4-094',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Simple Columnar Epithelium',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/ZwS5XfQTc-xcMKR9k-mpLg.jpg'
+    questionImage: '/images/ZwS5XfQTc-xcMKR9k-mpLg.jpg'
   },
   {
     id: 'ch4-095',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Pseudostratified Columnar Epithelium',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/i/at_E1mORQUYkcxC9z_8yIw.jpg'
+    questionImage: '/images/at_E1mORQUYkcxC9z_8yIw.jpg'
   },
   {
     id: 'ch4-096',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Stratified Squamous Epithelium',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/i/zSmuMXDlh89ceLWHw_EnEQ.jpg'
+    questionImage: '/images/zSmuMXDlh89ceLWHw_EnEQ.jpg'
   },
   {
     id: 'ch4-097',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Keratinized Stratified Squamous Epithelium',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/3KAFAO5RO14-bdQIdraR-Q.jpg'
+    questionImage: '/images/3KAFAO5RO14-bdQIdraR-Q.jpg'
   },
   {
     id: 'ch4-098',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Stratified Cuboidal Epithelium',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/86QsId0xIKztHaVrozg8eg.jpg'
+    questionImage: '/images/86QsId0xIKztHaVrozg8eg.jpg'
   },
   {
     id: 'ch4-099',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Stratified Columnar Epithelium',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/4zOKwO0P-VXbb8lTwCHtlg.jpg'
+    questionImage: '/images/4zOKwO0P-VXbb8lTwCHtlg.jpg'
   },
   {
     id: 'ch4-100',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Areolar Loose Connective Tissue Proper',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/l-irjahK6E1.lEyoNk6LYw.jpg'
+    questionImage: '/images/l-irjahK6E1.lEyoNk6LYw.jpg'
   },
   {
     id: 'ch4-101',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Adipose Loose Connective Tissue',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/i/D-GtWfJpg_JAit7tmZwoNA.jpg'
+    questionImage: '/images/D-GtWfJpg_JAit7tmZwoNA.jpg'
   },
   {
     id: 'ch4-102',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Reticular Loose Connective Tissue',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/Sw.7O5y3a.vVBHOWE8H8LA.jpg'
+    questionImage: '/images/Sw.7O5y3a.vVBHOWE8H8LA.jpg'
   },
   {
     id: 'ch4-103',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Dense Regular Connective Tissue Proper',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/8JVZgsegn8cI.psNpLSYUQ.png'
+    questionImage: '/images/8JVZgsegn8cI.psNpLSYUQ.png'
   },
   {
     id: 'ch4-104',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Dense Irregular Dense Connective Tissue',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/FrhOQYVxb4wrhmsQV8svwQ.jpg'
+    questionImage: '/images/FrhOQYVxb4wrhmsQV8svwQ.jpg'
   },
   {
     id: 'ch4-105',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Elastic Dense Connective Tissue',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/i/hIcel2s7K3WrBQwusFFTtA.jpg'
+    questionImage: '/images/hIcel2s7K3WrBQwusFFTtA.jpg'
   },
   {
     id: 'ch4-106',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Hyaline Cartilage',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/LnhkCUhhuiKwg.yoAIHlaA.jpg'
+    questionImage: '/images/LnhkCUhhuiKwg.yoAIHlaA.jpg'
   },
   {
     id: 'ch4-107',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Elastic Cartilage',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/i/lW3jrl3n-HaeZWm-u-oOCA.jpg'
+    questionImage: '/images/lW3jrl3n-HaeZWm-u-oOCA.jpg'
   },
   {
     id: 'ch4-108',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Fibrocartilage',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/i/Zc2ciz9qGOnbCKwlOnwdMA.jpg'
+    questionImage: '/images/Zc2ciz9qGOnbCKwlOnwdMA.jpg'
   },
   {
     id: 'ch4-109',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Osseous (bone) Tissue',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/i/zEMLWXiZcjUcnXj4bXUkaA.jpg'
+    questionImage: '/images/zEMLWXiZcjUcnXj4bXUkaA.jpg'
   },
   {
     id: 'ch4-110',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Blood Tissue',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/i/L0A4UnxeLBeQ8pK7uh70zQ.jpg'
+    questionImage: '/images/L0A4UnxeLBeQ8pK7uh70zQ.jpg'
   },
   {
     id: 'ch4-111',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Skeletal Muscle',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/i/xuybzumCOxWp53t87vAwEg.jpg'
+    questionImage: '/images/xuybzumCOxWp53t87vAwEg.jpg'
   },
   {
     id: 'ch4-112',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Smooth Muscle',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/i/c9i_mE6dy2O4hrf6hVNMag.jpg'
+    questionImage: '/images/c9i_mE6dy2O4hrf6hVNMag.jpg'
   },
   {
     id: 'ch4-113',
     questionText: 'Identify the tissue shown in the image.',
     answerText: 'Nervous Tissue',
     category: 'Chapter 4: The Tissue Level of Organization',
-    questionImage: 'https://o.quizlet.com/vAn1qkBgpnzijZnzepUuAw.png'
+    questionImage: '/images/vAn1qkBgpnzijZnzepUuAw.png'
   },
 
   // --- CHAPTER 6: The Skeletal System: Bone Tissue ---
@@ -2745,175 +2745,168 @@ export const questions: Question[] = [
     questionText: 'In which region of the diagram would yellow bone marrow be located?',
     answerText: 'C',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/NA-RguJF5ZH3ScS8G3g.ig.jpg'
+    questionImage: '/images/NA-RguJF5ZH3ScS8G3g.ig.jpg'
   },
   {
     id: 'ch6-022',
     questionText: 'Where in the diagram can you find red bone marrow in an adult?',
     answerText: 'A and B',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/RVeEjO23OA-fVNjnm7nMOQ.png'
+    questionImage: '/images/RVeEjO23OA-fVNjnm7nMOQ.png'
   },
   {
     id: 'ch6-023',
     questionText: 'Where in the diagram us hyaline cartilage located?',
     answerText: 'A and E',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/RVeEjO23OA-fVNjnm7nMOQ.png'
+    questionImage: '/images/RVeEjO23OA-fVNjnm7nMOQ.png'
   },
   {
     id: 'ch6-024',
     questionText: 'What area in the diagram would the primary ossification center be formed?',
     answerText: 'C',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/RVeEjO23OA-fVNjnm7nMOQ.png'
+    questionImage: '/images/RVeEjO23OA-fVNjnm7nMOQ.png'
   },
   {
     id: 'ch6-025',
     questionText: 'What type of bone cell secrets hydroxyapatite and collagen fibers?',
     answerText: 'B',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/OQWmmmSgaN6GsHKHJrcUvQ.png'
+    questionImage: '/images/OQWmmmSgaN6GsHKHJrcUvQ.png'
   },
   {
     id: 'ch6-026',
     questionText: 'Which bone cell in the diagram below is an osteoclast?',
     answerText: 'D',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/mcwFrCNAdhGgVlyf3lSk2g.png'
+    questionImage: '/images/mcwFrCNAdhGgVlyf3lSk2g.png'
   },
   {
     id: 'ch6-027',
     questionText: 'Which bone cell in the diagram below transports nutrients and wastes though tiny canals radiating from the lacunae?',
     answerText: 'C',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/OQWmmmSgaN6GsHKHJrcUvQ.png'
+    questionImage: '/images/OQWmmmSgaN6GsHKHJrcUvQ.png'
   },
   {
     id: 'ch6-028',
     questionText: 'Which bone cell in the diagram is located in the inner layer of the periosteum, the endosteum, and perforating and Haversian canals?',
     answerText: 'A',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/OQWmmmSgaN6GsHKHJrcUvQ.png'
-  },
-  {
-    id: 'ch6-029',
-    questionText: 'In the diagram, in what areas are osteoprogenitor cells located?',
-    answerText: 'E and D',
-    category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/yFXT1w2hEozpINqJtehIA.jpg'
+    questionImage: '/images/OQWmmmSgaN6GsHKHJrcUvQ.png'
   },
   {
     id: 'ch6-030',
     questionText: 'In the diagram, what bone is considered the strongest?',
     answerText: 'C',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/HBNgwrNyRhbNhA5Gro1WEw.jpg'
+    questionImage: '/images/HBNgwrNyRhbNhA5Gro1WEw.jpg'
   },
   {
     id: 'ch6-031',
     questionText: 'In the diagram, what area allows communication from the outermost region to the innermost region of bone?',
     answerText: 'F',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/joKZBug2wlnDi07AMtY.ew.jpg'
+    questionImage: '/images/joKZBug2wlnDi07AMtY.ew.jpg'
   },
   {
     id: 'ch6-032',
     questionText: 'In the diagram, what structures supply the red bone marrow?',
     answerText: 'A, C, H',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/6yj6d0ojLaeGHReIeULALg.png'
+    questionImage: '/images/6yj6d0ojLaeGHReIeULALg.png'
   },
   {
     id: 'ch6-033',
     questionText: 'In the diagram, which is the first blood vessel that enters the bone model in endochondral ossification?',
     answerText: 'H',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/6yj6d0ojLaeGHReIeULALg.png'
+    questionImage: '/images/6yj6d0ojLaeGHReIeULALg.png'
   },
   {
     id: 'ch6-034',
     questionText: 'In the diagram, where do cells lose the ability to divide and increase in size?',
     answerText: 'B',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/ufYUUE6n2Ip-.MkVE-UOHg.jpg'
+    questionImage: '/images/ufYUUE6n2Ip-.MkVE-UOHg.jpg'
   },
   {
     id: 'ch6-035',
     questionText: 'In the diagram, where is the zone of resting cartilage and does it demonstrate a proximal epiphysis or a distal epiphysis?',
     answerText: 'd; proximal epiphysis',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/ufYUUE6n2Ip-.MkVE-UOHg.jpg'
+    questionImage: '/images/ufYUUE6n2Ip-.MkVE-UOHg.jpg'
   },
   {
     id: 'ch6-036',
     questionText: 'Which of the following labeled structures in the diagram is a red blood cell production in adult bones?',
     answerText: 'A',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/SW1JcdsfboMe88mFoXkgyw.png'
+    questionImage: '/images/SW1JcdsfboMe88mFoXkgyw.png'
   },
   {
     id: 'ch6-037',
     questionText: 'Where would reticular connective tissue be located in the diagram below?',
     answerText: 'A',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/6Or5SRBJlMR352SzokXmTw.jpg'
+    questionImage: '/images/6Or5SRBJlMR352SzokXmTw.jpg'
   },
   {
     id: 'ch6-038',
     questionText: 'Which of the labeled structures in the diagram would house osteoprogenitor cells?',
     answerText: 'E and F',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/6Or5SRBJlMR352SzokXmTw.jpg'
+    questionImage: '/images/6Or5SRBJlMR352SzokXmTw.jpg'
   },
   {
     id: 'ch6-039',
     questionText: 'Where in the diagram does the secondary ossification center form?',
     answerText: 'A',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/6Or5SRBJlMR352SzokXmTw.jpg'
+    questionImage: '/images/6Or5SRBJlMR352SzokXmTw.jpg'
   },
   {
     id: 'ch6-040',
     questionText: 'What areas in the diagram lack a perichondrium?',
     answerText: 'B and E',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/6Or5SRBJlMR352SzokXmTw.jpg'
+    questionImage: '/images/6Or5SRBJlMR352SzokXmTw.jpg'
   },
   {
     id: 'ch6-041',
     questionText: 'Where in the diagram is dense irregular connective tissue located?',
     answerText: 'f',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/6Or5SRBJlMR352SzokXmTw.jpg'
+    questionImage: '/images/6Or5SRBJlMR352SzokXmTw.jpg'
   },
   {
     id: 'ch6-042',
     questionText: 'Which of the labeled structures in the diagram are fragments of older osteons that have been partially destroyed during bone rebuilding or growth?',
     answerText: 'A',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/nEnLluFNRzkbjxitvkhV4w.png'
+    questionImage: '/images/nEnLluFNRzkbjxitvkhV4w.png'
   },
   {
     id: 'ch6-043',
     questionText: 'which of the labeled structure in the diagram are composed of trabeculae, which are bony structures that lack osteons?',
     answerText: 'G',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/nEnLluFNRzkbjxitvkhV4w.png'
+    questionImage: '/images/nEnLluFNRzkbjxitvkhV4w.png'
   },
   {
     id: 'ch6-044',
     questionText: 'Which of the following labeled structures in the diagram are built during appositional growth?',
     answerText: 'B and C',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/nEnLluFNRzkbjxitvkhV4w.png'
+    questionImage: '/images/nEnLluFNRzkbjxitvkhV4w.png'
   },
   {
     id: 'ch6-045',
     questionText: 'Which of the labeled structures in the diagram secure dense irregular and osteogenic layers to the bone matrix?',
     answerText: 'E',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/nEnLluFNRzkbjxitvkhV4w.png'
+    questionImage: '/images/nEnLluFNRzkbjxitvkhV4w.png'
   },
   {
     id: 'ch6-046',
@@ -2927,35 +2920,35 @@ export const questions: Question[] = [
     questionText: 'During fracture repair, what area will have mesenchymal cells that differentiate into fibroblast, chondroblasts and osteoblast?',
     answerText: 'E',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/nEnLluFNRzkbjxitvkhV4w.png'
+    questionImage: '/images/nEnLluFNRzkbjxitvkhV4w.png'
   },
   {
     id: 'ch6-048',
     questionText: 'Which labeled structures in the figure are lamellae?',
     answerText: 'B',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/jrKAB8EkqXoSqO4vdO-Hww.png'
+    questionImage: '/images/jrKAB8EkqXoSqO4vdO-Hww.png'
   },
   {
     id: 'ch6-049',
     questionText: 'Which labelled structure in the figure are canaliculi?',
     answerText: 'C',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/jrKAB8EkqXoSqO4vdO-Hww.png'
+    questionImage: '/images/jrKAB8EkqXoSqO4vdO-Hww.png'
   },
   {
     id: 'ch6-050',
     questionText: 'Which labeled structure in the figure was once an osteoprogenitor cell?',
     answerText: 'E',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/jrKAB8EkqXoSqO4vdO-Hww.png'
+    questionImage: '/images/jrKAB8EkqXoSqO4vdO-Hww.png'
   },
   {
     id: 'ch6-051',
     questionText: 'Which illustration and radiograph in the figure shows a Pott\'s fracture?',
     answerText: 'E',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/Wly9qyQfVd.JMq7sHxU0iA.png'
+    questionImage: '/images/Wly9qyQfVd.JMq7sHxU0iA.png'
   },
   {
     id: 'ch6-052',
@@ -3141,21 +3134,21 @@ export const questions: Question[] = [
     questionText: 'Define the term: Reactive Phase',
     answerText: 'Early inflammatory phase.',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/2o4ddyAp8sCF7gylPq-6Aw.jpg'
+    questionImage: '/images/2o4ddyAp8sCF7gylPq-6Aw.jpg'
   },
   {
     id: 'ch6-081',
     questionText: 'Define the term: Reparative Phase',
     answerText: 'Formation of fibrocartilaginous callus, then bony callus.',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/2o4ddyAp8sCF7gylPq-6Aw.jpg'
+    questionImage: '/images/2o4ddyAp8sCF7gylPq-6Aw.jpg'
   },
   {
     id: 'ch6-082',
     questionText: 'Define the term: Bone Remodeling Phase',
     answerText: 'Final stage; bony callus remodeled into mature bone.',
     category: 'Chapter 6: The Skeletal System: Bone Tissue',
-    questionImage: 'https://o.quizlet.com/2o4ddyAp8sCF7gylPq-6Aw.jpg'
+    questionImage: '/images/2o4ddyAp8sCF7gylPq-6Aw.jpg'
   },
   {
     id: 'ch6-083',

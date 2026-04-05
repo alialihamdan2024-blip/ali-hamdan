@@ -133,7 +133,7 @@ const InteractiveAtlas: React.FC<InteractiveAtlasProps> = ({
                 <div key={idx} onClick={() => setSelectedImage(item.url)} className="group cursor-pointer bg-white rounded-2xl border border-slate-200 shadow-sm hover:shadow-xl hover:border-slate-300 transition-all flex flex-col overflow-hidden active:scale-[0.99]">
                     <div className="aspect-[4/3] bg-white flex items-center justify-center p-6 border-b border-slate-100 relative overflow-hidden">
                         <div className="absolute inset-0 bg-slate-50 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                        <img src={cleanImageUrl(item.url)} className="max-w-full max-h-full object-contain relative z-10 transform group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                        <img src={cleanImageUrl(item.url)} className="max-w-full max-h-full object-contain relative z-10 transform group-hover:scale-105 transition-transform duration-500" loading="lazy" referrerPolicy="no-referrer" />
                     </div>
                     <div className="p-5 flex-1 flex flex-col">
                         <span className="text-[10px] font-black uppercase text-slate-400 tracking-wider mb-1.5">{item.category.split(':')[0]}</span>
@@ -183,6 +183,7 @@ const InteractiveAtlas: React.FC<InteractiveAtlasProps> = ({
                     className="max-w-full max-h-full object-contain shadow-2xl cursor-zoom-in"
                     alt="Detail" 
                     onClick={() => onImageClick?.(activeEntry.url)}
+                    referrerPolicy="no-referrer"
                 />
                 
                 <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex items-center gap-2 w-max max-w-[90%] overflow-x-auto p-1">

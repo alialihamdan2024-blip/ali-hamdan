@@ -20,7 +20,7 @@ import {
   Stethoscope, FileText, Microscope, Clipboard
 } from 'lucide-react';
 import { GoogleGenAI, Type } from "@google/genai";
-import { cleanImageUrl } from '../utils';
+import { cleanImageUrl, sanitizeHtml } from '../utils';
 
 interface QuestionBuilderProps {
   allQuestions: Question[];
@@ -405,7 +405,7 @@ const QuestionBuilder: React.FC<QuestionBuilderProps> = ({ allQuestions, editing
                                 <AlertCircle size={12} className="text-rose-500" />
                                 <span className="text-[9px] font-black text-slate-400 uppercase tracking-widest">{q.category}</span>
                               </div>
-                              <h4 className="text-slate-800 font-bold text-sm truncate" dangerouslySetInnerHTML={{ __html: q.questionText }}></h4>
+                              <h4 className="text-slate-800 font-bold text-sm truncate" dangerouslySetInnerHTML={{ __html: sanitizeHtml(q.questionText) }}></h4>
                            </div>
                            <button 
                              onClick={() => repairQuestion(q)}
@@ -563,7 +563,7 @@ const QuestionBuilder: React.FC<QuestionBuilderProps> = ({ allQuestions, editing
                      <span className="px-3 py-1 bg-white border border-slate-200 rounded-lg text-[10px] font-black text-slate-500 uppercase tracking-widest">
                         {formData.category}
                      </span>
-                     <h3 className="mt-4 text-xl md:text-2xl font-black text-slate-900 leading-snug font-display" dangerouslySetInnerHTML={{ __html: formData.questionText }} />
+                     <h3 className="mt-4 text-xl md:text-2xl font-black text-slate-900 leading-snug font-display" dangerouslySetInnerHTML={{ __html: sanitizeHtml(formData.questionText) }} />
                   </div>
                   
                   <div className="p-6 md:p-8 space-y-6 bg-white">
@@ -573,7 +573,7 @@ const QuestionBuilder: React.FC<QuestionBuilderProps> = ({ allQuestions, editing
                           <div className={`w-8 h-8 rounded-lg flex items-center justify-center font-bold text-xs ${opt === formData.answerText ? 'bg-emerald-600 text-white' : 'bg-slate-100 text-slate-400'}`}>
                             {String.fromCharCode(65 + i)}
                           </div>
-                          <div className="font-bold text-sm" dangerouslySetInnerHTML={{ __html: opt }} />
+                          <div className="font-bold text-sm" dangerouslySetInnerHTML={{ __html: sanitizeHtml(opt) }} />
                         </div>
                       ))}
                     </div>
@@ -583,7 +583,7 @@ const QuestionBuilder: React.FC<QuestionBuilderProps> = ({ allQuestions, editing
                           <Zap size={16} className="text-rose-500" />
                           <span className="clinical-label text-slate-400">Clinical Rationale</span>
                        </div>
-                       <p className="text-sm font-medium text-slate-700 leading-relaxed" dangerouslySetInnerHTML={{ __html: formData.explanation }} />
+                       <p className="text-sm font-medium text-slate-700 leading-relaxed" dangerouslySetInnerHTML={{ __html: sanitizeHtml(formData.explanation) }} />
                        
                        {sources.length > 0 && (
                           <div className="mt-6 pt-4 border-t border-slate-200">
